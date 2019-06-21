@@ -55,6 +55,27 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (ZENER_AK_1
+      (FullPartName "ZENER_AK_1.Normal")
+      (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BUZ84A
+      (FullPartName "BUZ84A.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (BUZZER
+      (FullPartName "BUZZER.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (Cap_KeyPad
+      (FullPartName "Cap_KeyPad.Normal")
+      (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\ATEMEGA2560_SHIED.OLB")
+      (DeviceIndex "0"))
     ("CAP NP"
       (FullPartName "CAP NP.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -75,10 +96,6 @@
       (FullPartName "C.Normal")
       (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
-    (R
-      (FullPartName "R.Normal")
-      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -98,14 +115,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\project\balang_ctrl_v1_0\hw\sch\balang_ctrl_hw_v1_0.dsn")
-      (Path "Design Resources"
-         "d:\project\balang_ctrl_v1_0\hw\sch\balang_ctrl_hw_v1_0.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\balang_ctrl_hw_v1_0.dsn")
+      (Path "Design Resources" ".\balang_ctrl_hw_v1_0.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "d:\project\balang_ctrl_v1_0\hw\sch\atemega2560_shied.olb")
+      (Path "Design Resources" "Library" ".\atemega2560_shied.olb")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
@@ -116,44 +129,23 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1290 125 388")
+        (Placement "44 0 1 -1 -1 -8 -30 50 872 50 459")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "-76 0")
-        (Zoom "15"))
-      (Path "D:\PROJECT\BALANG_CTRL_V1_0\HW\SCH\ATEMEGA2560_SHIED.OLB")
-      (Package "Atmega2560_Shield"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 898 25 288")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "608 0")
-        (Zoom "247"))
-      (Path "D:\PROJECT\BALANG_CTRL_V1_0\HW\SCH\ATEMEGA2560_SHIED.OLB")
-      (Package "Terminal_Block_508"))
+        (Scroll "1245 570")
+        (Zoom "425"))
+      (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\ATEMEGA2560_SHIED.OLB")
+      (Package "Cap_KeyPad"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1215 25 282")
-        (Scroll "1608 1626")
-        (Zoom "264")
+        (Placement "44 0 1 -1 -1 -8 -30 25 847 25 434")
+        (Scroll "940 1481")
+        (Zoom "132")
         (Occurrence "/"))
-      (Path "D:\PROJECT\BALANG_CTRL_V1_0\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
+      (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE03 - MICROCONTROLLER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1215 50 355")
-        (Scroll "-170 0")
-        (Zoom "47")
-        (Occurrence "/"))
-      (Path "D:\PROJECT\BALANG_CTRL_V1_0\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE02 - BLOCK DIAGRAM")))
+      (Page "PAGE03 - MICROCONTROLLER")))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "BANGNGUYEN"))
