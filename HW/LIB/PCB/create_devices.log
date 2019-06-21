@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : SDI-12_HUMIDITY_ SENSOR_SCH_REVA_20190406.brd )
+(    Software Version : 16.6S018                                      )
+(    Date/Time        : Sat Apr 06 10:44:13 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/tp_fids100xs200_tp100.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_0r.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cappol_capt1206_100uf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0805_dnp_0r.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0805_0r.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/con_04_con_b4b-eh-a_b4b-ehlf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cap_cc0603_01uf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cap_cc0603_1uf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cap_cc0603_10uf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cappol_capae630w660h570_10uf50.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cap_cc0603_1uf50v.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cap_cc0603_33nf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cap_cc0603_90pf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/cap_cc0603_1nf.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/diode_ak_do-214ac_b350a-13-f.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/dio_schottky_ak_diosod323_pdz7.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/inductor_indc0603_mmz1608r601a.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/inductor_indc1210h87_1uh.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_47k.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_120k.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_180k.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_33r.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_330k.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_510r.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_68r.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_220r.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/res_rc0603_200k.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/tpointr_tp_80c_tpointr.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/stm8l151c6t6_34_qfp50p900x900-4.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/mcp1703t_sot89_mcp1703t-5002em.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/ic_mcp1703t-3302emb_sot89_mcp1.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/ic_nc7sz14m5_sot23-5_nc7sz14m5.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/ic_74lvc2g07gw_sot363-6_74lvc2g.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/ic_nc7wz14p6x_tssop65p-6_nc7wz1.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/ic_nc7sz125m5_sot23-5_nc7sz125m.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/sparkgap_spark_gap_sparkgap.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/zener_ak_dio_do214aa_smb_smbj17.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/crystal_old_xtal_cx3225sb16000e.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/con8_lsf_smt_lsf-smt_8l_1825660.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/fuse_fuser_1206l012wr_1206l012w.txt': written successfully.
+Device file 'E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/tp_tp100_tp100.txt': written successfully.
+
+  Created device files: 41
+

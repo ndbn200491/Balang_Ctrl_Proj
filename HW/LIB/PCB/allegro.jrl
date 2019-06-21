@@ -1,0 +1,59 @@
+\t (00:00:10) allegro 16.6 S018 (v16-6-112BD) Windows 32
+\t (00:00:10)     Journal start - Sun Apr 07 16:14:51 2019
+\t (00:00:10)         Host=BANGNGUYEN-PC User=BANGNGUYEN Pid=2372 CPUs=8
+\t (00:00:10) 
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Database opened: E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/capae630w660h570.dra
+\t (00:00:12) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:00:12) trapsize 1544
+\i (00:00:12) trapsize 1517
+\i (00:00:12) trapsize 1549
+\i (00:00:12) trapsize 1368
+\i (00:00:12) trapsize 1368
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 3.6119 -3.0647
+\t (00:00:15) Grids are drawn 0.0640, 0.0640 apart for enhanced viewability.
+\i (00:00:15) trapsize 684
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -2.7774 -2.7910
+\t (00:00:15) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:00:15) trapsize 1368
+\i (00:08:06) trapsize 1396
+\i (00:08:07) zoom out 1 
+\i (00:08:07) setwindow pcb
+\i (00:08:07) zoom out 1.2005 -0.0279
+\i (00:08:07) trapsize 1396
+\i (00:08:07) zoom in 1 
+\i (00:08:07) setwindow pcb
+\i (00:08:07) zoom in -2.9036 1.3122
+\t (00:08:07) Grids are drawn 0.0640, 0.0640 apart for enhanced viewability.
+\i (00:08:07) trapsize 698
+\i (00:08:08) exit 
+\t (00:08:09)     Journal end - Sun Apr 07 16:22:50 2019
+ pcb
+\i (00:00:06) zoom in -1.4239 -2.7640
+\t (00:00:06) Grids are drawn 0.0640, 0.0640 apart for enhanced viewability.
+\i (00:00:06) trapsize 698
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -2.8058 -1.5495
+\t (00:00:06) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:00:06) trapsize 1396
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -4.1878 -0.3630
+\i (00:00:06) trapsize 1396
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.0279 3.7969
+\t (00:00:07) Grids are drawn 0.0640, 0.0640 apart for enhanced viewability.
+\i (00:00:07) trapsize 698
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.0279 3.7272
+\t (00:00:07) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:00:08) trapsize 1396
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Sun Apr 07 16:16:07 2019

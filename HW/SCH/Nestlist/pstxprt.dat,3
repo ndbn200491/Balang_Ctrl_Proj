@@ -1,0 +1,740 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-06-2019 at 11:00:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SDI-12_HUMIDITY_SENSOR_20190406';
+ POST_TIME='Sep 14 2013 00:32:48';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460786@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460786@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460786@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460971@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460971@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460971@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_CC0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460987@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460987@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460987@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460906@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460906@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460906@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460812@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460812@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460812@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPPOL_CAPAE630W660H570_10UF/50':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463025@CAPACITOR.CAPPOL.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463025@capacitor.\cappol.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463025@capacitor.\cappol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_CC0603_1UF/50V':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463123@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463123@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463123@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463053@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463053@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463053@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463113@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463113@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463113@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463083@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463083@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463083@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_CC0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463015@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463015@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463015@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460979@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460979@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460979@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463165@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463165@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463165@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463073@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463073@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463073@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463339@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463339@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463339@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463215@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463215@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463215@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_CC0603_3.3NF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463199@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463199@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463199@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPPOL_CAPT1206_100UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18466833@CAPACITOR.CAPPOL.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18466833@capacitor.\cappol.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18466833@capacitor.\cappol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_CC0603_9.0PF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460914@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460914@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460914@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_CC0603_9.0PF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460940@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460940@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460940@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_CC0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460999@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460999@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460999@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_CC0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460958@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460958@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460958@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_CC0603_1NF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460932@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460932@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460932@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_CC0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460802@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460802@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460802@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_CC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460898@CAPACITOR.CAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460898@capacitor.\cap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460898@capacitor.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CON1 'CON_04_CON_B4B-EH-A_B4B-EH(LF)(':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18465221@CONNECTOR.CON_04.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18465221@connector.\con_04.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18465221@connector.\con_04.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CON2 'CON8_LSF_SMT_LSF-SMT_8L_1825660':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18464042@CONNECTOR.CON8_LSF_SMT.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18464042@connector.\con8_lsf_smt.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18464042@connector.\con8_lsf_smt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_AK_DO-214AC_B350A-13-F':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18462979@DIODES.DIODE_AK.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18462979@diodes.\diode_ak.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18462979@diodes.\diode_ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIO_SCHOTTKY_AK_DIOSOD323_PDZ7.':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463257@DIODES.DIO_SCHOTTKY_AK.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463257@diodes.\dio_schottky_ak.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463257@diodes.\dio_schottky_ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSER_1206L012WR_1206L012W':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463289@INDUCTOR.FUSE.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463289@inductor.\fuse.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463289@inductor.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDUCIAL1 'TP_FIDS100XS200_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18464575@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18464575@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18464575@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDUCIAL2 'TP_FIDS100XS200_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18464580@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18464580@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18464580@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FIDUCIAL3 'TP_FIDS100XS200_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18469124@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18469124@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18469124@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_INDC0603_MMZ1608R601A':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460770@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460770@inductor.\inductor.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460770@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_INDC0603_MMZ1608R601A':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460836@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460836@inductor.\inductor.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460836@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_INDC0603_MMZ1608R601A':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460794@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460794@inductor.\inductor.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460794@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_INDC1210H87_1UH':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463145@INDUCTOR.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463145@inductor.\inductor.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463145@inductor.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_RC0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460820@PASSIVES.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460820@passives.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460820@passives.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES_RC0603_120K':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463247@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463247@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463247@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES_RC0603_180K':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463359@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463359@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463359@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES_RC0805_DNP_0R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18466631@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18466631@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18466631@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES_RC0805_0R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18466580@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18466580@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18466580@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RES_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18468041@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18468041@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18468041@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RES_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18468071@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18468071@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18468071@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES_RC0603_0R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18468173@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18468173@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18468173@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_RC0603_33R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460778@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460778@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460778@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_RC0603_330K':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463005@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463005@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463005@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_RC0603_330K':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463093@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463093@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463093@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_RC0603_510R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463063@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463063@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463063@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES_RC0603_68R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18462989@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18462989@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18462989@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES_RC0603_220R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463103@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463103@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463103@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES_RC0603_220R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463349@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463349@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463349@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES_RC0603_200K':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463155@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463155@resistor.\res.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463155@resistor.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TP_TP100_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460953@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460953@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460953@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP10 'TP_TP100_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463139@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463139@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463139@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP_TP100_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460948@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460948@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460948@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'T POINT R_TP_80C_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460591@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460591@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460591@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'T POINT R_TP_80C_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460607@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460607@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460607@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP5 'T POINT R_TP_80C_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460613@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460613@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460613@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP6 'T POINT R_TP_80C_T POINT R':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460627@DISCRETE.T POINT R.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460627@discrete.\t point r.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460627@discrete.\t point r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7 'TP_TP100_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463133@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463133@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463133@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP8 'TP_TP100_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463267@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463267@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463267@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP9 'TP_TP100_TP100':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18462999@DISCRETES.TP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18462999@discretes.\tp.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18462999@discretes.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM8L151C6T6_34_QFP50P900X900-4':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460844@TBS02PA_PULSE_ANALOG_INTERFACE_SCH_REVA_20130426.STM8L151C6T6_34.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460844@tbs02pa_pulse_analog_interface_sch_reva_20130426.\stm8l151c6t6_34.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460844@tbs02pa_pulse_analog_interface_sch_reva_20130426.\stm8l151c6t6_34.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MCP1703T_SOT89_MCP1703T-5002E/M':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463187@IC.MCP1703T.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463187@ic.\mcp1703t.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463187@ic.\mcp1703t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'IC_MCP1703T-3302E/MB_SOT89_MCP1':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463175@IC.IC_MCP1703T-3302E/MB.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463175@ic.\ic_mcp1703t-3302e/mb.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463175@ic.\ic_mcp1703t-3302e/mb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'IC_NC7SZ14M5_SOT23-5_NC7SZ14M5':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463225@IC.IC_NC7SZ14M5.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463225@ic.\ic_nc7sz14m5.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463225@ic.\ic_nc7sz14m5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'IC_74LVC2G07GW_SOT363-6_74LVC2G':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463035@IC.IC_74LVC2G07GW.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463035@ic.\ic_74lvc2g07gw.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463035@ic.\ic_74lvc2g07gw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'IC_NC7WZ14P6X_TSSOP65P-6_NC7WZ1':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463321@IC.IC_NC7WZ14P6X.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463321@ic.\ic_nc7wz14p6x.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463321@ic.\ic_nc7wz14p6x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'IC_NC7SZ125M5_SOT23-5_NC7SZ125M':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463299@IC.IC_NC7SZ125M5.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463299@ic.\ic_nc7sz125m5.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463299@ic.\ic_nc7sz125m5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V1 'SPARK GAP_SPARK_GAP_SPARK GAP':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18463279@DISCRETES.SPARK GAP.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18463279@discretes.\spark gap.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18463279@discretes.\spark gap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR1 'ZENER_AK_DIO_DO214AA_SMB_SMBJ17':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18462969@DIODES.ZENER_AK.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18462969@diodes.\zener_ak.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page4_ins18462969@diodes.\zener_ak.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_OLD_XTAL_CX3225SB16000E':;
+
+SECTION_NUMBER 1
+ '@SDI-12_HUMIDITY_SENSOR_20190406.SCHEMATIC1(SCH_1):INS18460922@CRYSTAL.CRYSTAL_OLD.NORMAL(CHIPS)':
+ C_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):ins18460922@crystal.\crystal_old.normal\(chips)',
+ P_PATH='@\sdi-12_humidity_sensor_20190406\.schematic1(sch_1):page3_ins18460922@crystal.\crystal_old.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
