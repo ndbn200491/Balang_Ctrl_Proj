@@ -30,7 +30,23 @@
     ("Allegro Netlist User Defined Property" "FALSE")
     (Netlist_TAB "0")
     (File ".\balang_ctrl_hw_v1_0.dsn"
-      (Type "Schematic Design")))
+      (Type "Schematic Design"))
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
   (Folder "Outputs"
     (File
        "d:\tekbox\project\sdi-12 ultrasonic level sensor\rev b\sch\allegro\pstxnet.dat"
@@ -55,13 +71,25 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
-    (ZENER_AK_1
-      (FullPartName "ZENER_AK_1.Normal")
+    (Rst
+      (FullPartName "Rst.Normal")
+      (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\ATEMEGA2560_SHIED.OLB")
+      (DeviceIndex "0"))
+    (ZENER_AK_5
+      (FullPartName "ZENER_AK_5.Normal")
       (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ZENER_AK_1
+      (FullPartName "ZENER_AK_1.Normal")
+      (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
       (DeviceIndex "0"))
     (BUZ84A
       (FullPartName "BUZ84A.Normal")
@@ -75,10 +103,6 @@
     (Cap_KeyPad
       (FullPartName "Cap_KeyPad.Normal")
       (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\ATEMEGA2560_SHIED.OLB")
-      (DeviceIndex "0"))
-    ("CAP NP"
-      (FullPartName "CAP NP.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     (CAP
       (FullPartName "CAP.Normal")
@@ -124,28 +148,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 444"))
-      (Tab 0))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 872 50 459")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "1245 570")
-        (Zoom "425"))
-      (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\ATEMEGA2560_SHIED.OLB")
-      (Package "Cap_KeyPad"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 847 25 434")
-        (Scroll "940 1481")
-        (Zoom "132")
-        (Occurrence "/"))
-      (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE03 - MICROCONTROLLER")))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 444"))
+      (Tab 0)))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "BANGNGUYEN"))
