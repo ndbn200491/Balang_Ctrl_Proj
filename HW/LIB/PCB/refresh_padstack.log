@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : atmega2560.dra                                )
+(    Software Version : 16.6S018                                      )
+(    Date/Time        : Sat Jun 22 21:53:25 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Jun 22 21:53:25 2019				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB/atmega2560.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB 
+
+
+------ Pad Stack Refresh Messages ------
+
+'HOLE3_2'  pad stack refresh starting.
+
+     'HOLE3_2'  pad stack refreshed successfully.
+     
+'C180H100_BN'  pad stack refresh starting.
+
+     'C180H100_BN'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

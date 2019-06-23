@@ -1,0 +1,31 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : atmega2560.dra                                )
+(    Software Version : 16.6S018                                      )
+(    Date/Time        : Sat Jun 22 22:22:07 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR IN SYMBOL DEFINITION name = LINEAR_DIMENSION
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+
+ERROR IN SHAPE (no segment)
+  class = DEVICE TYPE
+  subclass = ASSEMBLY_TOP 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+
+ERROR IN SHAPE (no segment)
+  class = PACKAGE GEOMETRY
+  subclass = ASSEMBLY_TOP 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+
+ERROR IN SHAPE (no segment)
+  class = PACKAGE GEOMETRY
+  subclass = ASSEMBLY_TOP 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+
+0 warnings, 4 errors detected, 1 errors could be fixed.
