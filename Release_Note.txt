@@ -1,2 +1,2 @@
-#Now have nothing to note
-abababa
+#20190623: Complete capture and created Netlist
+	   Imported PCB logic
