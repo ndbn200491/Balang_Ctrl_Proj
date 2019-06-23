@@ -11,8 +11,7 @@
     (CompileFileAddedOrDeleted "x")
     (NoModify)
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory"
-       "E:\PROJECT\SDI-12_HUMIDITY_SENSOR\HW\SCH\NESTLIST")
+    ("Allegro Netlist Directory" "D:\PROJECT\BALANG_CTRL_PROJ\HW\PCB\NESTLIST")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -67,6 +66,15 @@
       (Type "Report")
       (DisplayName "pstxprt.dat"))
     (File ".\nestlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\pcb\nestlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\pcb\nestlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\pcb\nestlist\pstchip.dat"
       (Type "Report")
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
@@ -141,9 +149,11 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\balang_ctrl_hw_v1_0.dsn")
       (Path "Design Resources" ".\balang_ctrl_hw_v1_0.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\balang_ctrl_hw_v1_0.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\atemega2560_shied.olb")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\balang_ctrl_hw_v1_0.dsn" "SCHEMATIC1"
+         "PAGE03 - MAIN PAGE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -151,11 +161,17 @@
         (Placement "44 0 1 -1 -1 -8 -30 0 200 0 444"))
       (Tab 0))
     (Doc
+      (Type "TextFile")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1240 125 534"))
+      (Path "D:\Project\Balang_Ctrl_Proj\HW\SCH\Nestlist\pstchip.dat")
+      (Scroll "0"))
+    (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 75 897 75 484")
-        (Scroll "93 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -30 75 897 75 484")
+        (Scroll "275 2629")
+        (Zoom "264")
         (Occurrence "/"))
       (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -164,7 +180,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 75 1190 75 484")
-        (Scroll "0 70")
+        (Scroll "0 120")
         (Zoom "100")
         (Occurrence "/"))
       (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
@@ -174,11 +190,21 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 100 1215 100 509")
-        (Scroll "395 0")
+        (Scroll "385 30")
         (Zoom "100")
         (Occurrence "/"))
       (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE04-  REVISION HISTORY")))
+      (Page "PAGE04-  REVISION HISTORY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1215 0 163")
+        (Scroll "0 10")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE02 - BLOCK DIAGRAM")))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "BANGNGUYEN"))

@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : atmega2560_1.dra                              )
+(    Software Version : 16.6S018                                      )
+(    Date/Time        : Sun Jun 23 13:45:48 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB
+    Name      = atmega2560_1.psm
+    User      = BANGNGUYEN
+    Machine   = BANGNGUYEN-PC
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+ Duplicate pin number 21. 
+ WARNING(SPMHA1-298): Create symbol duplicate pin numbers. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

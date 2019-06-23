@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : SDI-12_HUMIDITY_ SENSOR_SCH_REVA_20190406.brd )
+(    Drawing          : Balang_Ctrl_V1_0_20190623.brd                 )
 (    Software Version : 16.6S018                                      )
-(    Date/Time        : Sun Apr 07 16:19:09 2019                      )
+(    Date/Time        : Sun Jun 23 15:10:40 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -16,39 +16,53 @@ RIPUP_DELETE_FIRST_SEGMENT FALSE;
 RIPUP_RETAIN_BONDWIRE FALSE;
 RIPUP_SYMBOLS ALWAYS;
 Missing symbol has error FALSE;
-SCHEMATIC_DIRECTORY 'E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist';
+SCHEMATIC_DIRECTORY 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist';
 BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'E:/Project/SDI-12_Humidity_sensor/HW/PCB/SDI-12_HUMIDITY_ SENSOR_SCH_REVA_20190406.brd';
-NEW_BOARD_NAME 'E:/Project/SDI-12_Humidity_sensor/HW/PCB/SDI-12_HUMIDITY_ SENSOR_SCH_REVA_20190406.brd';
+OLD_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190623.brd';
+NEW_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190623.brd';
 
-CmdLine: c:\cadence\spb_16.6\tools\pcb\bin\netrev.exe  -$ -i E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist -u -t -y 1 -z -v E:/Project/SDI-12_Humidity_sensor/HW/PCB/#Taaaaaa08160.tmp
+CmdLine: netrev -$ -i D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist -u -t -y 1 -z -v D:/Project/Balang_Ctrl_Proj/HW/PCB/#Taaaaab01360.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist/pstchip.dat 
-   Finished reading E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist/pstchip.dat (00:00:00.02)
-Starting to read E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist/pstxprt.dat 
-   Finished reading E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist/pstxprt.dat (00:00:00.00)
-Starting to read E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist/pstxnet.dat 
-   Finished reading E:/Project/SDI-12_Humidity_sensor/HW/SCH/Nestlist/pstxnet.dat (00:00:00.00)
+Starting to read D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstchip.dat 
+   Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstchip.dat (00:00:00.10)
+Starting to read D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxprt.dat 
+   Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxprt.dat (00:00:00.03)
+Starting to read D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxnet.dat 
+   Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxnet.dat (00:00:00.03)
 
 ------ Oversights/Warnings/Errors ------
 
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           c:/cadence/spb_16.6/share/local/pcb/modules 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
 
-PSMPATH =  E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/ 
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB/ 
 
-PADPATH =  E:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB/ 
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Apr 7 16:19:09 2019
-   DESIGN NAME : 'SDI-12_HUMIDITY_SENSOR_20190406'
+netrev run on Jun 23 15:10:40 2019
+   DESIGN NAME : 'BALANG_CTRL_HW_V1_0'
    PACKAGING ON Sep 14 2013 00:32:48
 
    COMPILE 'logic'
@@ -72,6 +86,6 @@ netrev run on Apr 7 16:19:09 2019
  No oversight detected
  No warning detected
 
-cpu time      0:00:26
-elapsed time  0:00:00
+cpu time      0:02:08
+elapsed time  0:00:01
 

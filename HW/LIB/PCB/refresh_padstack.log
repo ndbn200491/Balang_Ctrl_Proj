@@ -2,19 +2,19 @@
 (                                                                     )
 (    Refresh Padstack                                                 )
 (                                                                     )
-(    Drawing          : atmega2560.dra                                )
+(    Drawing          : terminalBlock508.dra                          )
 (    Software Version : 16.6S018                                      )
-(    Date/Time        : Sat Jun 22 21:53:25 2019                      )
+(    Date/Time        : Sun Jun 23 12:14:51 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Sat Jun 22 21:53:25 2019				Page     1
+Sun Jun 23 12:14:51 2019				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design = 'D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB/atmega2560.dra'
+Input design = 'D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB/terminalBlock508.dra'
 Output design = ''
 Reset symbol text and size locations = 'NO'
 
@@ -41,12 +41,16 @@ PADPATH =  .
 
 ------ Pad Stack Refresh Messages ------
 
-'HOLE3_2'  pad stack refresh starting.
+'C250H120_BN'  pad stack refresh starting.
 
-     'HOLE3_2'  pad stack refreshed successfully.
+     'C250H120_BN'  pad stack refreshed successfully.
      
-'C180H100_BN'  pad stack refresh starting.
+'R250H120_BN'  pad stack refresh starting.
 
-     'C180H100_BN'  pad stack refreshed successfully.
+     'R250H120_BN'  pad stack refreshed successfully.
+     
+'C300H120_BN'  pad stack refresh starting.
+
+     'C300H120_BN'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.

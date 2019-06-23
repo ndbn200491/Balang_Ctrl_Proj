@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : terminalBlock508.dra                          )
+(    Software Version : 16.6S018                                      )
+(    Date/Time        : Sun Jun 23 12:11:12 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Jun 23 12:11:12 2019				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB/terminalBlock508.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/Project/SDI-12_Humidity_sensor/HW/LIB/PCB 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB 
+
+
+------ Pad Stack Refresh Messages ------
+
+'C250H120_BN'  pad stack refresh starting.
+
+     'C250H120_BN'  pad stack refreshed successfully.
+     
+'R250H120_BN'  pad stack refresh starting.
+
+     'R250H120_BN'  pad stack refreshed successfully.
+     
+'C300H120_BN'  pad stack refresh starting.
+
+     'C300H120_BN'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
