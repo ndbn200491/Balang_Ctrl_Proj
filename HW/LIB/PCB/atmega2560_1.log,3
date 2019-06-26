@@ -2,22 +2,23 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : CAP_KEYPAD.dra                                )
+(    Drawing          : atmega2560_1.dra                              )
 (    Software Version : 16.6S018                                      )
-(    Date/Time        : Mon Jun 24 20:53:20 2019                      )
+(    Date/Time        : Mon Jun 24 18:32:01 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB
-    Name      = cap_keypad.psm
+    Name      = atmega2560_1.psm
     User      = BANGNGUYEN
     Machine   = BANGNGUYEN-PC
 
 
 Create symbol started.
  
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
 
 Create symbol completed.
 

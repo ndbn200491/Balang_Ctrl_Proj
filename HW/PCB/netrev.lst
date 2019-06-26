@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : Balang_Ctrl_V1_0_20190623.brd                 )
+(    Drawing          : Balang_Ctrl_V1_0_20190624.brd                 )
 (    Software Version : 16.6S018                                      )
-(    Date/Time        : Sun Jun 23 15:10:40 2019                      )
+(    Date/Time        : Wed Jun 26 22:30:54 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,10 +18,10 @@ RIPUP_SYMBOLS ALWAYS;
 Missing symbol has error FALSE;
 SCHEMATIC_DIRECTORY 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist';
 BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190623.brd';
-NEW_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190623.brd';
+OLD_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd';
+NEW_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd';
 
-CmdLine: netrev -$ -i D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist -u -t -y 1 -z -v D:/Project/Balang_Ctrl_Proj/HW/PCB/#Taaaaab01360.tmp
+CmdLine: netrev -$ -i D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist -u -t -y 1 -z -v D:/Project/Balang_Ctrl_Proj/HW/PCB/#Taaaaag04572.tmp
 
 ------ Preparing to read pst files ------
 
@@ -61,7 +61,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jun 23 15:10:40 2019
+netrev run on Jun 26 22:30:54 2019
    DESIGN NAME : 'BALANG_CTRL_HW_V1_0'
    PACKAGING ON Sep 14 2013 00:32:48
 
@@ -86,6 +86,6 @@ netrev run on Jun 23 15:10:40 2019
  No oversight detected
  No warning detected
 
-cpu time      0:02:08
-elapsed time  0:00:01
+cpu time      0:01:52
+elapsed time  0:00:00
 

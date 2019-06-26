@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jun-23-2019 at 15:00:17}
+{ Using PSTWRITER 16.6.0 d001Jun-26-2019 at 22:06:35}
 primitive 'CAP NP_0_CC0603_100N';
   pin
     '1':
@@ -208,45 +208,6 @@ primitive 'RST_SW_5-1437565-0_RST';
     PART_NAME='Rst';
     JEDEC_TYPE='SW_5-1437565-0';
     VALUE='Rst';
-  end_body;
-end_primitive;
-primitive 'TERMINAL_BLOCK_0_TERMINALLBLOCK';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    '7':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    '8':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    '9':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
-    '10':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Terminal_Block_0';
-    JEDEC_TYPE='terminallBlock508';
-    VALUE='TerminalBlock';
   end_body;
 end_primitive;
 primitive 'CAP_KEYPAD_CAP_KEYPAD_CAP_KEYPA';

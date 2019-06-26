@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jun-23-2019 at 14:57:33}
+{ Using PSTWRITER 16.6.0 d001Jun-23-2019 at 15:00:17}
 primitive 'CAP NP_0_CC0603_100N';
   pin
     '1':
@@ -189,6 +189,27 @@ primitive 'TERMINAL_BLOCK_0_TERMINALBLOCK5';
     VALUE='TerminalBlock';
   end_body;
 end_primitive;
+primitive 'RST_SW_5-1437565-0_RST';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Rst';
+    JEDEC_TYPE='SW_5-1437565-0';
+    VALUE='Rst';
+  end_body;
+end_primitive;
 primitive 'TERMINAL_BLOCK_0_TERMINALLBLOCK';
   pin
     '1':
@@ -226,27 +247,6 @@ primitive 'TERMINAL_BLOCK_0_TERMINALLBLOCK';
     PART_NAME='Terminal_Block_0';
     JEDEC_TYPE='terminallBlock508';
     VALUE='TerminalBlock';
-  end_body;
-end_primitive;
-primitive 'RST_SW_5-1437565-0_RST';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Rst';
-    JEDEC_TYPE='SW_5-1437565-0';
-    VALUE='Rst';
   end_body;
 end_primitive;
 primitive 'CAP_KEYPAD_CAP_KEYPAD_CAP_KEYPA';
