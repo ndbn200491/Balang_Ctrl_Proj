@@ -3,23 +3,86 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd            |
-|                                                    Wed Jun 26 22:06:45 2019  |
+|                                                    Thu Jun 27 22:06:53 2019  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND          pins MOVED FROM this net (to net name listed on right)
-                                 C28.1           271.700 -76.139
-                                                                            D13
-                                 D36.C           257.935 -81.700
-                                                                            D13
-                                 R37.2           198.898 -45.325
-                                                                            D13
-                                 R38.1           259.975 -84.698
-                                                                            D13
-                                 U1.13           -214.46 147.850
-                                                                            D13
+  D54          pins MOVED FROM this net (to net name listed on right)
+                                 U1.54           -18.900 51.4900
+                                                                             A0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D55          pins MOVED FROM this net (to net name listed on right)
+                                 U1.55           -16.360 51.4900
+                                                                             A1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D56          pins MOVED FROM this net (to net name listed on right)
+                                 U1.56           -13.820 51.4900
+                                                                             A2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D57          pins MOVED FROM this net (to net name listed on right)
+                                 U1.57           -11.280 51.4900
+                                                                             A3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D58          pins MOVED FROM this net (to net name listed on right)
+                                 U1.58           -8.7400 51.4900
+                                                                             A4
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D59          pins MOVED FROM this net (to net name listed on right)
+                                 U1.59           -6.2000 51.4900
+                                                                             A5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D60          pins MOVED FROM this net (to net name listed on right)
+                                 U1.60           -3.6600 51.4900
+                                                                             A6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D61          pins MOVED FROM this net (to net name listed on right)
+                                 U1.61           -1.1200 51.4900
+                                                                             A7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D62          pins MOVED FROM this net (to net name listed on right)
+                                 U1.62            3.9600 51.4900
+                                                                             A8
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D63          pins MOVED FROM this net (to net name listed on right)
+                                 U1.63            6.5000 51.4900
+                                                                             A9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D64          pins MOVED FROM this net (to net name listed on right)
+                                 U1.64            9.0400 51.4900
+                                                                            A10
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D65          pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  5                                              |
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd            |
+|                                                    Thu Jun 27 22:06:53 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.65           11.5800 51.4900
+                                                                            A11
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D66          pins MOVED FROM this net (to net name listed on right)
+                                 U1.66           14.1200 51.4900
+                                                                            A12
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D67          pins MOVED FROM this net (to net name listed on right)
+                                 U1.67           16.6600 51.4900
+                                                                            A13
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D68          pins MOVED FROM this net (to net name listed on right)
+                                 U1.68           19.2000 51.4900
+                                                                            A14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D69          pins MOVED FROM this net (to net name listed on right)
+                                 U1.69           21.7400 51.4900
+                                                                            A15
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  16                                             |
 |------------------------------------------------------------------------------|

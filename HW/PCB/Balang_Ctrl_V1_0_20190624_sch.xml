@@ -94,7 +94,7 @@
     <pin><id>R44.2</id></pin>
     </net>
   <net><id>N18542239</id>
-    <pin><id>J1.9</id></pin>
+    <pin><id>J1.5</id></pin>
     <pin><id>D5.A</id></pin>
     </net>
   <net><id>N18511964</id>
@@ -214,20 +214,12 @@
     <pin><id>R84.1</id></pin>
     <pin><id>U1.40</id></pin>
     </net>
-  <net><id>N18542225</id>
-    <pin><id>J1.6</id></pin>
-    <pin><id>D2.A</id></pin>
-    </net>
   <net><id>D41</id>
     <pin><id>D70.C</id></pin>
     <pin><id>C45.1</id></pin>
     <pin><id>R69.2</id></pin>
     <pin><id>R74.1</id></pin>
     <pin><id>U1.41</id></pin>
-    </net>
-  <net><id>N18542227</id>
-    <pin><id>J1.7</id></pin>
-    <pin><id>D3.A</id></pin>
     </net>
   <net><id>D42</id>
     <pin><id>D60.C</id></pin>
@@ -244,16 +236,12 @@
     <pin><id>U1.43</id></pin>
     </net>
   <net><id>N18542237</id>
-    <pin><id>J1.8</id></pin>
+    <pin><id>J1.4</id></pin>
     <pin><id>D4.A</id></pin>
     </net>
   <net><id>N18542223</id>
-    <pin><id>J1.5</id></pin>
+    <pin><id>J1.1</id></pin>
     <pin><id>D1.A</id></pin>
-    </net>
-  <net><id>N18542241</id>
-    <pin><id>J1.10</id></pin>
-    <pin><id>D6.A</id></pin>
     </net>
   <net><id>N18537272</id>
     <pin><id>J2.4</id></pin>
@@ -365,8 +353,8 @@
     <pin><id>D12.A</id></pin>
     </net>
   <net><id>VCC_12V</id>
-    <pin><id>J1.3</id></pin>
-    <pin><id>J1.4</id></pin>
+    <pin><id>J1.8</id></pin>
+    <pin><id>J1.7</id></pin>
     <pin><id>U1.77</id></pin>
     </net>
   <net><id>N18490757</id>
@@ -501,20 +489,22 @@
     <pin><id>R70.2</id></pin>
     </net>
   <net><id>A0</id>
-    <pin><id>R18.1</id></pin>
-    <pin><id>R34.2</id></pin>
-    <pin><id>C17.1</id></pin>
-    <pin><id>D32.C</id></pin>
+    <pin><id>R8.1</id></pin>
+    <pin><id>R24.2</id></pin>
+    <pin><id>C7.1</id></pin>
+    <pin><id>D22.C</id></pin>
+    <pin><id>U1.54</id></pin>
     </net>
   <net><id>N18642164</id>
     <pin><id>D113.C</id></pin>
     <pin><id>R121.2</id></pin>
     </net>
   <net><id>A1</id>
-    <pin><id>R17.1</id></pin>
-    <pin><id>R33.2</id></pin>
-    <pin><id>C16.1</id></pin>
-    <pin><id>D31.C</id></pin>
+    <pin><id>R7.1</id></pin>
+    <pin><id>R23.2</id></pin>
+    <pin><id>C6.1</id></pin>
+    <pin><id>D21.C</id></pin>
+    <pin><id>U1.55</id></pin>
     </net>
   <net><id>N18642158</id>
     <pin><id>D82.C</id></pin>
@@ -525,10 +515,11 @@
     <pin><id>D37.A</id></pin>
     </net>
   <net><id>A2</id>
-    <pin><id>R16.1</id></pin>
-    <pin><id>R32.2</id></pin>
-    <pin><id>C15.1</id></pin>
-    <pin><id>D30.C</id></pin>
+    <pin><id>R6.1</id></pin>
+    <pin><id>R22.2</id></pin>
+    <pin><id>C5.1</id></pin>
+    <pin><id>D20.C</id></pin>
+    <pin><id>U1.56</id></pin>
     </net>
   <net><id>N18642160</id>
     <pin><id>D92.C</id></pin>
@@ -539,10 +530,11 @@
     <pin><id>D57.A</id></pin>
     </net>
   <net><id>A3</id>
-    <pin><id>R15.1</id></pin>
-    <pin><id>R31.2</id></pin>
-    <pin><id>C14.1</id></pin>
-    <pin><id>D29.C</id></pin>
+    <pin><id>R5.1</id></pin>
+    <pin><id>R21.2</id></pin>
+    <pin><id>C4.1</id></pin>
+    <pin><id>D19.C</id></pin>
+    <pin><id>U1.57</id></pin>
     </net>
   <net><id>N18642162</id>
     <pin><id>D102.C</id></pin>
@@ -553,10 +545,11 @@
     <pin><id>D67.A</id></pin>
     </net>
   <net><id>A4</id>
-    <pin><id>R14.1</id></pin>
-    <pin><id>R30.2</id></pin>
-    <pin><id>C13.1</id></pin>
-    <pin><id>D28.C</id></pin>
+    <pin><id>R4.1</id></pin>
+    <pin><id>R20.2</id></pin>
+    <pin><id>C3.1</id></pin>
+    <pin><id>D18.C</id></pin>
+    <pin><id>U1.58</id></pin>
     </net>
   <net><id>N18642168</id>
     <pin><id>D130.C</id></pin>
@@ -570,78 +563,89 @@
     <pin><id>U1.4</id></pin>
     </net>
   <net><id>A5</id>
-    <pin><id>R13.1</id></pin>
-    <pin><id>R29.2</id></pin>
-    <pin><id>C12.1</id></pin>
-    <pin><id>D27.C</id></pin>
+    <pin><id>R3.1</id></pin>
+    <pin><id>R19.2</id></pin>
+    <pin><id>C2.1</id></pin>
+    <pin><id>D17.C</id></pin>
+    <pin><id>U1.59</id></pin>
     </net>
   <net><id>A6</id>
-    <pin><id>R12.1</id></pin>
-    <pin><id>R28.2</id></pin>
-    <pin><id>C11.1</id></pin>
-    <pin><id>D26.C</id></pin>
+    <pin><id>R18.1</id></pin>
+    <pin><id>R34.2</id></pin>
+    <pin><id>C17.1</id></pin>
+    <pin><id>D32.C</id></pin>
+    <pin><id>U1.60</id></pin>
     </net>
   <net><id>A7</id>
-    <pin><id>R11.1</id></pin>
-    <pin><id>R27.2</id></pin>
-    <pin><id>C10.1</id></pin>
-    <pin><id>D25.C</id></pin>
+    <pin><id>R17.1</id></pin>
+    <pin><id>R33.2</id></pin>
+    <pin><id>C16.1</id></pin>
+    <pin><id>D31.C</id></pin>
+    <pin><id>U1.61</id></pin>
     </net>
   <net><id>A8</id>
-    <pin><id>R10.1</id></pin>
-    <pin><id>R26.2</id></pin>
-    <pin><id>C9.1</id></pin>
-    <pin><id>D24.C</id></pin>
+    <pin><id>R16.1</id></pin>
+    <pin><id>R32.2</id></pin>
+    <pin><id>C15.1</id></pin>
+    <pin><id>D30.C</id></pin>
+    <pin><id>U1.62</id></pin>
     </net>
   <net><id>A9</id>
-    <pin><id>R9.1</id></pin>
-    <pin><id>R25.2</id></pin>
-    <pin><id>C8.1</id></pin>
-    <pin><id>D23.C</id></pin>
+    <pin><id>R15.1</id></pin>
+    <pin><id>R31.2</id></pin>
+    <pin><id>C14.1</id></pin>
+    <pin><id>D29.C</id></pin>
+    <pin><id>U1.63</id></pin>
     </net>
   <net><id>A10</id>
-    <pin><id>R8.1</id></pin>
-    <pin><id>R24.2</id></pin>
-    <pin><id>C7.1</id></pin>
-    <pin><id>D22.C</id></pin>
+    <pin><id>R14.1</id></pin>
+    <pin><id>R30.2</id></pin>
+    <pin><id>C13.1</id></pin>
+    <pin><id>D28.C</id></pin>
+    <pin><id>U1.64</id></pin>
     </net>
   <net><id>N18534099</id>
     <pin><id>J4.1</id></pin>
     <pin><id>D107.A</id></pin>
     </net>
   <net><id>A11</id>
-    <pin><id>R7.1</id></pin>
-    <pin><id>R23.2</id></pin>
-    <pin><id>C6.1</id></pin>
-    <pin><id>D21.C</id></pin>
+    <pin><id>R13.1</id></pin>
+    <pin><id>R29.2</id></pin>
+    <pin><id>C12.1</id></pin>
+    <pin><id>D27.C</id></pin>
+    <pin><id>U1.65</id></pin>
     </net>
   <net><id>N18534101</id>
     <pin><id>J4.2</id></pin>
     <pin><id>D97.A</id></pin>
     </net>
   <net><id>A12</id>
-    <pin><id>R6.1</id></pin>
-    <pin><id>R22.2</id></pin>
-    <pin><id>C5.1</id></pin>
-    <pin><id>D20.C</id></pin>
+    <pin><id>R12.1</id></pin>
+    <pin><id>R28.2</id></pin>
+    <pin><id>C11.1</id></pin>
+    <pin><id>D26.C</id></pin>
+    <pin><id>U1.66</id></pin>
     </net>
   <net><id>A13</id>
-    <pin><id>R5.1</id></pin>
-    <pin><id>R21.2</id></pin>
-    <pin><id>C4.1</id></pin>
-    <pin><id>D19.C</id></pin>
+    <pin><id>R11.1</id></pin>
+    <pin><id>R27.2</id></pin>
+    <pin><id>C10.1</id></pin>
+    <pin><id>D25.C</id></pin>
+    <pin><id>U1.67</id></pin>
     </net>
   <net><id>A14</id>
-    <pin><id>R4.1</id></pin>
-    <pin><id>R20.2</id></pin>
-    <pin><id>C3.1</id></pin>
-    <pin><id>D18.C</id></pin>
+    <pin><id>R10.1</id></pin>
+    <pin><id>R26.2</id></pin>
+    <pin><id>C9.1</id></pin>
+    <pin><id>D24.C</id></pin>
+    <pin><id>U1.68</id></pin>
     </net>
   <net><id>A15</id>
-    <pin><id>R3.1</id></pin>
-    <pin><id>R19.2</id></pin>
-    <pin><id>C2.1</id></pin>
-    <pin><id>D17.C</id></pin>
+    <pin><id>R9.1</id></pin>
+    <pin><id>R25.2</id></pin>
+    <pin><id>C8.1</id></pin>
+    <pin><id>D23.C</id></pin>
+    <pin><id>U1.69</id></pin>
     </net>
   <net><id>N185630101</id>
     <pin><id>LS1.2</id></pin>
@@ -852,13 +856,25 @@
     <pin><id>R73.1</id></pin>
     <pin><id>U1.31</id></pin>
     </net>
+  <net><id>N18822314</id>
+    <pin><id>J1.2</id></pin>
+    <pin><id>D2.A</id></pin>
+    </net>
   <net><id>N18531118</id>
     <pin><id>J8.7</id></pin>
     <pin><id>D72.A</id></pin>
     </net>
+  <net><id>N18822323</id>
+    <pin><id>J1.3</id></pin>
+    <pin><id>D3.A</id></pin>
+    </net>
   <net><id>N18531102</id>
     <pin><id>J8.3</id></pin>
     <pin><id>D113.A</id></pin>
+    </net>
+  <net><id>N18822355</id>
+    <pin><id>J1.6</id></pin>
+    <pin><id>D6.A</id></pin>
     </net>
   <net><id>N18531104</id>
     <pin><id>J8.4</id></pin>
@@ -910,11 +926,6 @@
     <pin><id>J8.8</id></pin>
     <pin><id>D62.A</id></pin>
     </net>
-  <net><id>N18537654</id>
-    <pin><id>C12.2</id></pin>
-    <pin><id>R29.1</id></pin>
-    <pin><id>D27.A</id></pin>
-    </net>
   <net><id>D44</id>
     <pin><id>R138.1</id></pin>
     <pin><id>D135.C</id></pin>
@@ -928,23 +939,6 @@
     <pin><id>C72.1</id></pin>
     <pin><id>R126.2</id></pin>
     <pin><id>U1.45</id></pin>
-    </net>
-  <net><id>N18537409</id>
-    <pin><id>C13.2</id></pin>
-    <pin><id>R30.1</id></pin>
-    <pin><id>D28.A</id></pin>
-    <pin><id>C14.2</id></pin>
-    <pin><id>R31.1</id></pin>
-    <pin><id>D29.A</id></pin>
-    <pin><id>C15.2</id></pin>
-    <pin><id>R32.1</id></pin>
-    <pin><id>D30.A</id></pin>
-    <pin><id>C16.2</id></pin>
-    <pin><id>R33.1</id></pin>
-    <pin><id>D31.A</id></pin>
-    <pin><id>C17.2</id></pin>
-    <pin><id>R34.1</id></pin>
-    <pin><id>D32.A</id></pin>
     </net>
   <net><id>D46</id>
     <pin><id>D118.C</id></pin>
@@ -1034,22 +1028,13 @@
     <pin><id>D123.C</id></pin>
     <pin><id>R131.2</id></pin>
     </net>
-  <net><id>D54</id>
-    <pin><id>U1.54</id></pin>
-    </net>
   <net><id>N18639407</id>
     <pin><id>D64.C</id></pin>
     <pin><id>R73.2</id></pin>
     </net>
-  <net><id>D55</id>
-    <pin><id>U1.55</id></pin>
-    </net>
   <net><id>N18639405</id>
     <pin><id>D53.C</id></pin>
     <pin><id>R63.2</id></pin>
-    </net>
-  <net><id>D56</id>
-    <pin><id>U1.56</id></pin>
     </net>
   <net><id>N18639417</id>
     <pin><id>D115.C</id></pin>
@@ -1059,61 +1044,33 @@
     <pin><id>J7.8</id></pin>
     <pin><id>D64.A</id></pin>
     </net>
-  <net><id>D57</id>
-    <pin><id>U1.57</id></pin>
-    </net>
   <net><id>N18513982</id>
     <pin><id>J7.2</id></pin>
     <pin><id>D123.A</id></pin>
-    </net>
-  <net><id>D58</id>
-    <pin><id>U1.58</id></pin>
     </net>
   <net><id>N18514006</id>
     <pin><id>J7.10</id></pin>
     <pin><id>D44.A</id></pin>
     </net>
-  <net><id>D59</id>
-    <pin><id>U1.59</id></pin>
-    </net>
   <net><id>N18513980</id>
     <pin><id>J7.1</id></pin>
     <pin><id>D132.A</id></pin>
-    </net>
-  <net><id>D60</id>
-    <pin><id>U1.60</id></pin>
-    </net>
-  <net><id>D61</id>
-    <pin><id>U1.61</id></pin>
     </net>
   <net><id>N18513996</id>
     <pin><id>J7.5</id></pin>
     <pin><id>D94.A</id></pin>
     </net>
-  <net><id>D62</id>
-    <pin><id>U1.62</id></pin>
-    </net>
   <net><id>N18513994</id>
     <pin><id>J7.4</id></pin>
     <pin><id>D104.A</id></pin>
-    </net>
-  <net><id>D63</id>
-    <pin><id>U1.63</id></pin>
     </net>
   <net><id>N18513998</id>
     <pin><id>J7.6</id></pin>
     <pin><id>D85.A</id></pin>
     </net>
-  <net><id>D64</id>
-    <pin><id>U1.64</id></pin>
-    </net>
-  <net><id>D65</id>
-    <pin><id>U1.65</id></pin>
-    </net>
-  <net><id>D66</id>
-    <pin><id>U1.66</id></pin>
-    </net>
   <net><id>GND</id>
+    <pin><id>J1.10</id></pin>
+    <pin><id>J1.9</id></pin>
     <pin><id>U1.76</id></pin>
     <pin><id>V2.2</id></pin>
     <pin><id>C1.2</id></pin>
@@ -1130,6 +1087,24 @@
     <pin><id>C11.2</id></pin>
     <pin><id>R28.1</id></pin>
     <pin><id>D26.A</id></pin>
+    <pin><id>C12.2</id></pin>
+    <pin><id>R29.1</id></pin>
+    <pin><id>D27.A</id></pin>
+    <pin><id>C13.2</id></pin>
+    <pin><id>R30.1</id></pin>
+    <pin><id>D28.A</id></pin>
+    <pin><id>C14.2</id></pin>
+    <pin><id>R31.1</id></pin>
+    <pin><id>D29.A</id></pin>
+    <pin><id>C15.2</id></pin>
+    <pin><id>R32.1</id></pin>
+    <pin><id>D30.A</id></pin>
+    <pin><id>C16.2</id></pin>
+    <pin><id>R33.1</id></pin>
+    <pin><id>D31.A</id></pin>
+    <pin><id>C17.2</id></pin>
+    <pin><id>R34.1</id></pin>
+    <pin><id>D32.A</id></pin>
     <pin><id>C56.2</id></pin>
     <pin><id>R91.1</id></pin>
     <pin><id>D91.A</id></pin>
@@ -1285,8 +1260,6 @@
     <pin><id>L1.2</id></pin>
     <pin><id>U3.3</id></pin>
     <pin><id>U3.2</id></pin>
-    <pin><id>J1.1</id></pin>
-    <pin><id>J1.2</id></pin>
     <pin><id>C18.2</id></pin>
     <pin><id>C19.2</id></pin>
     <pin><id>C22.2</id></pin>
@@ -1309,18 +1282,9 @@
     <pin><id>J7.9</id></pin>
     <pin><id>D53.A</id></pin>
     </net>
-  <net><id>D67</id>
-    <pin><id>U1.67</id></pin>
-    </net>
   <net><id>N18513984</id>
     <pin><id>J7.3</id></pin>
     <pin><id>D115.A</id></pin>
-    </net>
-  <net><id>D68</id>
-    <pin><id>U1.68</id></pin>
-    </net>
-  <net><id>D69</id>
-    <pin><id>U1.69</id></pin>
     </net>
   <net><id>D0</id>
     <pin><id>U1.86</id></pin>
