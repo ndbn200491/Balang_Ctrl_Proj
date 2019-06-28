@@ -8996,4 +8996,876 @@
 \i (01:35:28) placementedit 
 \i (01:35:29) pick grid -38.5662 39.0673
 \t (01:35:29) last pick:  -38.6000  39.1000
-\i (01:35:29) mov
+\i (01:35:29) move 
+\t (01:35:29) last pick:  -38.6000  39.1000
+\t (01:35:29) Moving F2 / FUSE_FUSER_1206L012WR_1206L012W / FUSER_1206L012WR.
+\t (01:35:29) Pick new location for the element(s).
+\i (01:35:31) zoom in 1 
+\i (01:35:31) setwindow pcb
+\i (01:35:31) zoom in -38.7426 38.7144
+\i (01:35:31) trapsize 2206
+\i (01:35:31) zoom in 1 
+\i (01:35:31) setwindow pcb
+\i (01:35:31) zoom in -38.7426 38.7144
+\i (01:35:31) trapsize 1103
+\i (01:35:31) zoom in 1 
+\i (01:35:31) setwindow pcb
+\i (01:35:31) zoom in -38.7426 38.7144
+\i (01:35:31) trapsize 551
+\i (01:35:32) zoom out 1 
+\i (01:35:32) setwindow pcb
+\i (01:35:32) zoom out -38.7647 38.7144
+\i (01:35:32) trapsize 1103
+\i (01:35:33) zoom out 1 
+\i (01:35:33) setwindow pcb
+\i (01:35:33) zoom out -38.8087 38.6924
+\i (01:35:33) trapsize 2206
+\i (01:35:34) zoom out 1 
+\i (01:35:34) setwindow pcb
+\i (01:35:34) zoom out -38.8088 38.6925
+\i (01:35:34) trapsize 4411
+\i (01:35:38) pick grid -38.8087 38.6925
+\t (01:35:38) last pick:  -38.8000  38.7000
+\i (01:35:38) placementedit 
+\i (01:35:39) zoom out 1 
+\i (01:35:39) setwindow pcb
+\i (01:35:39) zoom out -42.7787 36.7516
+\i (01:35:39) trapsize 8822
+\i (01:35:39) zoom out 1 
+\i (01:35:39) setwindow pcb
+\i (01:35:39) zoom out -42.7788 36.7515
+\i (01:35:39) trapsize 17645
+\i (01:35:40) zoom in 1 
+\i (01:35:40) setwindow pcb
+\i (01:35:40) zoom in -63.5994 42.7507
+\i (01:35:40) trapsize 8822
+\i (01:35:40) zoom in 1 
+\i (01:35:40) setwindow pcb
+\i (01:35:40) zoom in -63.5994 42.7507
+\i (01:35:40) trapsize 4411
+\i (01:35:42) zoom out 1 
+\i (01:35:42) setwindow pcb
+\i (01:35:42) zoom out -62.1878 33.6638
+\i (01:35:42) trapsize 8822
+\i (01:35:42) zoom out 1 
+\i (01:35:42) setwindow pcb
+\i (01:35:42) zoom out -62.1879 33.6638
+\i (01:35:42) trapsize 17645
+\i (01:35:42) zoom in 1 
+\i (01:35:42) setwindow pcb
+\i (01:35:42) zoom in -51.9540 66.1298
+\i (01:35:42) trapsize 8822
+\i (01:35:43) zoom out 1 
+\i (01:35:43) setwindow pcb
+\i (01:35:43) zoom out -52.6597 55.7195
+\i (01:35:43) trapsize 17645
+\i (01:35:48) zoom out 1 
+\i (01:35:48) setwindow pcb
+\i (01:35:48) zoom out -50.1895 60.6600
+\i (01:35:48) trapsize 35289
+\i (01:35:48) zoom out 1 
+\i (01:35:48) setwindow pcb
+\i (01:35:48) zoom out -84.7729 18.3131
+\i (01:35:48) trapsize 70578
+\i (01:35:49) prepopup 323.1693 145.3540
+\i (01:35:49) pick grid 318.9346 203.2281
+\t (01:35:49) last pick:  318.9000  203.2000
+\i (01:35:51) save 
+\i (01:35:53) fillin yes 
+\i (01:35:53) placementedit 
+\i (01:38:36) pick grid 215.8904 -93.2004
+\t (01:38:36) last pick:  215.9000  -93.2000
+\i (01:38:36) zoom in 1 
+\i (01:38:36) setwindow pcb
+\i (01:38:36) zoom in 88.8496 36.6635
+\i (01:38:36) trapsize 35289
+\i (01:38:36) zoom in 1 
+\i (01:38:36) setwindow pcb
+\i (01:38:36) zoom in 88.8496 36.6635
+\i (01:38:36) trapsize 17645
+\i (01:38:38) zoom in 1 
+\i (01:38:38) setwindow pcb
+\i (01:38:38) zoom in -17.7235 78.6576
+\i (01:38:38) trapsize 8822
+\i (01:38:38) zoom in 1 
+\i (01:38:38) setwindow pcb
+\i (01:38:38) zoom in -17.7235 78.6576
+\i (01:38:38) trapsize 4411
+\i (01:38:39) zoom out 1 
+\i (01:38:39) setwindow pcb
+\i (01:38:39) zoom out -17.7235 78.3047
+\i (01:38:39) trapsize 8822
+\i (01:38:39) zoom out 1 
+\i (01:38:39) setwindow pcb
+\i (01:38:39) zoom out -14.0181 74.7758
+\i (01:38:39) trapsize 17645
+\i (01:38:40) zoom out 1 
+\i (01:38:40) setwindow pcb
+\i (01:38:40) zoom out -11.9008 72.6586
+\i (01:38:40) trapsize 35289
+\i (01:38:40) zoom in 1 
+\i (01:38:40) setwindow pcb
+\i (01:38:40) zoom in 20.5651 83.9510
+\i (01:38:40) trapsize 17645
+\i (01:38:40) zoom in 1 
+\i (01:38:40) setwindow pcb
+\i (01:38:40) zoom in 20.5651 83.5981
+\i (01:38:40) trapsize 8822
+\i (01:38:41) zoom out 1 
+\i (01:38:41) setwindow pcb
+\i (01:38:41) zoom out 62.5592 78.8341
+\i (01:38:41) trapsize 17645
+\i (01:38:42) zoom in 1 
+\i (01:38:42) setwindow pcb
+\i (01:38:42) zoom in 62.5592 78.8342
+\i (01:38:42) trapsize 8822
+\i (01:38:43) zoom out 1 
+\i (01:38:43) setwindow pcb
+\i (01:38:43) zoom out 86.7322 42.4864
+\i (01:38:43) trapsize 17645
+\i (01:38:44) zoom in 1 
+\i (01:38:44) setwindow pcb
+\i (01:38:44) zoom in -8.5484 110.9474
+\i (01:38:44) trapsize 8822
+\i (01:38:44) zoom in 1 
+\i (01:38:44) setwindow pcb
+\i (01:38:44) zoom in -8.9013 111.1238
+\i (01:38:44) trapsize 4411
+\i (01:38:44) zoom out 1 
+\i (01:38:44) setwindow pcb
+\i (01:38:44) zoom out -6.3428 104.9482
+\i (01:38:44) trapsize 8822
+\i (01:38:44) zoom out 1 
+\i (01:38:44) setwindow pcb
+\i (01:38:44) zoom out -0.3437 94.1851
+\i (01:38:44) trapsize 17645
+\i (01:38:45) zoom out 1 
+\i (01:38:45) setwindow pcb
+\i (01:38:45) zoom out -12.3420 105.1246
+\i (01:38:45) trapsize 35289
+\i (01:38:45) zoom in 1 
+\i (01:38:45) setwindow pcb
+\i (01:38:45) zoom in 65.2940 50.0737
+\i (01:38:45) trapsize 17645
+\i (01:38:46) zoom out 1 
+\i (01:38:46) setwindow pcb
+\i (01:38:46) zoom out 12.3604 89.5975
+\i (01:38:46) trapsize 35289
+\i (01:38:47) zoom in 1 
+\i (01:38:47) setwindow pcb
+\i (01:38:47) zoom in -41.2792 13.3731
+\i (01:38:47) trapsize 17645
+\i (01:38:47) zoom in 1 
+\i (01:38:47) setwindow pcb
+\i (01:38:47) zoom in -41.9849 16.5491
+\i (01:38:47) trapsize 8822
+\i (01:38:48) zoom out 1 
+\i (01:38:48) setwindow pcb
+\i (01:38:48) zoom out -44.2787 26.4301
+\i (01:38:48) trapsize 17645
+\i (01:38:49) zoom in 1 
+\i (01:38:49) setwindow pcb
+\i (01:38:49) zoom in -44.9845 26.7829
+\i (01:38:49) trapsize 8822
+\i (01:38:49) zoom in 1 
+\i (01:38:49) setwindow pcb
+\i (01:38:49) zoom in -44.9845 26.7829
+\i (01:38:49) trapsize 4411
+\i (01:38:49) zoom out 1 
+\i (01:38:49) setwindow pcb
+\i (01:38:49) zoom out -43.6611 27.9298
+\i (01:38:49) trapsize 8822
+\i (01:38:51) pick grid -47.5429 27.2241
+\t (01:38:51) last pick:  -47.5000  27.2000
+\i (01:38:51) move 
+\t (01:38:51) last pick:  -47.5000  27.2000
+\t (01:38:51) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:38:51) Pick new location for the element(s).
+\i (01:38:55) pick grid -57.6003 12.4027
+\t (01:38:55) last pick:  -57.6000  12.4000
+\i (01:38:55) placementedit 
+\i (01:38:56) pick grid -47.1900 40.9869
+\t (01:38:56) last pick:  -47.2000  41.0000
+\i (01:38:56) move 
+\t (01:38:56) last pick:  -47.2000  41.0000
+\t (01:38:56) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:38:56) Pick new location for the element(s).
+\i (01:39:00) pick grid -57.2474 26.6948
+\t (01:39:00) last pick:  -57.2000  26.7000
+\i (01:39:00) placementedit 
+\i (01:39:01) zoom in 1 
+\i (01:39:01) setwindow pcb
+\i (01:39:01) zoom in -49.3074 40.1046
+\i (01:39:01) trapsize 4411
+\i (01:39:02) zoom out 1 
+\i (01:39:02) setwindow pcb
+\i (01:39:02) zoom out -51.9540 34.7230
+\i (01:39:02) trapsize 8822
+\i (01:39:04) pick grid -57.9532 27.4888
+\t (01:39:04) last pick:  -58.0000  27.5000
+\i (01:39:04) move 
+\t (01:39:04) last pick:  -58.0000  27.5000
+\t (01:39:04) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:04) Pick new location for the element(s).
+\i (01:39:06) spin 
+\t (01:39:06) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:06) iangle 90 
+\t (01:39:06) last angle:  180.000 Degrees
+\i (01:39:06) placementedit 
+\i (01:39:06) trapsize 8822
+\i (01:39:07) spin 
+\t (01:39:07) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:07) iangle 90 
+\t (01:39:07) last angle:  270.000 Degrees
+\i (01:39:07) placementedit 
+\i (01:39:07) trapsize 8822
+\i (01:39:09) pick grid -60.2470 26.6066
+\t (01:39:09) last pick:  -60.2000  26.6000
+\i (01:39:09) move 
+\t (01:39:09) last pick:  -60.2000  26.6000
+\t (01:39:09) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:09) Pick new location for the element(s).
+\i (01:39:10) pick grid -62.1879 27.3124
+\t (01:39:10) last pick:  -62.2000  27.3000
+\i (01:39:10) placementedit 
+\i (01:39:11) pick grid -56.3652 18.6665
+\t (01:39:11) last pick:  -56.4000  18.7000
+\i (01:39:11) move 
+\t (01:39:11) last pick:  -56.4000  18.7000
+\t (01:39:11) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:11) Pick new location for the element(s).
+\i (01:39:14) pick grid -47.5429 32.4293
+\t (01:39:14) last pick:  -47.5000  32.4000
+\i (01:39:14) placementedit 
+\i (01:39:15) pick grid -62.0114 28.0181
+\t (01:39:15) last pick:  -62.0000  28.0000
+\i (01:39:15) move 
+\t (01:39:15) last pick:  -62.0000  28.0000
+\t (01:39:15) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:15) Pick new location for the element(s).
+\i (01:39:17) pick grid -61.4821 32.0764
+\t (01:39:17) last pick:  -61.5000  32.1000
+\i (01:39:17) placementedit 
+\i (01:39:17) zoom in 1 
+\i (01:39:17) setwindow pcb
+\i (01:39:17) zoom in -61.4821 32.4293
+\i (01:39:17) trapsize 4411
+\i (01:39:18) zoom in 1 
+\i (01:39:18) setwindow pcb
+\i (01:39:18) zoom in -61.4821 32.4293
+\i (01:39:18) trapsize 2206
+\i (01:39:18) pick grid -61.1291 31.9441
+\t (01:39:18) last pick:  -61.1000  31.9000
+\i (01:39:18) move 
+\t (01:39:18) last pick:  -61.1000  31.9000
+\t (01:39:18) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:18) Pick new location for the element(s).
+\i (01:39:19) spin 
+\t (01:39:19) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:19) iangle 90 
+\t (01:39:19) last angle:  0.000 Degrees
+\i (01:39:19) placementedit 
+\i (01:39:19) trapsize 2206
+\i (01:39:20) pick grid -61.7908 32.7381
+\t (01:39:20) last pick:  -61.8000  32.7000
+\i (01:39:20) move 
+\t (01:39:20) last pick:  -61.8000  32.7000
+\t (01:39:20) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:20) Pick new location for the element(s).
+\i (01:39:22) pick grid -64.2169 30.1356
+\t (01:39:22) last pick:  -64.2000  30.1000
+\i (01:39:22) placementedit 
+\i (01:39:22) zoom out 1 
+\i (01:39:22) setwindow pcb
+\i (01:39:22) zoom out -62.0996 33.9292
+\i (01:39:22) trapsize 4411
+\i (01:39:22) zoom out 1 
+\i (01:39:22) setwindow pcb
+\i (01:39:22) zoom out -62.0996 33.9291
+\i (01:39:22) trapsize 8822
+\i (01:39:23) zoom in 1 
+\i (01:39:23) setwindow pcb
+\i (01:39:23) zoom in -50.2777 29.8709
+\i (01:39:23) trapsize 4411
+\i (01:39:24) pick grid -47.2781 32.6940
+\t (01:39:24) last pick:  -47.3000  32.7000
+\i (01:39:24) move 
+\t (01:39:24) last pick:  -47.3000  32.7000
+\t (01:39:24) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:24) Pick new location for the element(s).
+\i (01:39:26) zoom out 1 
+\i (01:39:26) setwindow pcb
+\i (01:39:26) zoom out -60.4233 24.0482
+\i (01:39:26) trapsize 8822
+\i (01:39:27) pick grid -53.8947 20.5193
+\t (01:39:27) last pick:  -53.9000  20.5000
+\i (01:39:27) placementedit 
+\i (01:39:28) pick grid -60.0703 28.9886
+\t (01:39:28) last pick:  -60.1000  29.0000
+\i (01:39:28) move 
+\t (01:39:28) last pick:  -60.1000  29.0000
+\t (01:39:28) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:28) Pick new location for the element(s).
+\i (01:39:28) spin 
+\t (01:39:28) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:28) iangle 90 
+\t (01:39:28) last angle:  90.000 Degrees
+\i (01:39:28) placementedit 
+\i (01:39:28) trapsize 8822
+\i (01:39:29) spin 
+\t (01:39:29) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:29) iangle 90 
+\t (01:39:29) last angle:  180.000 Degrees
+\i (01:39:29) placementedit 
+\i (01:39:29) trapsize 8822
+\i (01:39:30) pick grid -56.3650 27.9300
+\t (01:39:30) last pick:  -56.4000  27.9000
+\i (01:39:30) move 
+\t (01:39:30) last pick:  -56.4000  27.9000
+\t (01:39:30) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:30) Pick new location for the element(s).
+\i (01:39:34) pick grid -56.1885 28.2829
+\t (01:39:34) last pick:  -56.2000  28.3000
+\i (01:39:34) placementedit 
+\i (01:39:35) pick grid -53.8947 14.1672
+\t (01:39:35) last pick:  -53.9000  14.2000
+\i (01:39:35) move 
+\t (01:39:35) last pick:  -53.9000  14.2000
+\t (01:39:35) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:35) Pick new location for the element(s).
+\i (01:39:35) zoom in 1 
+\i (01:39:35) setwindow pcb
+\i (01:39:35) zoom in -60.0703 14.6966
+\i (01:39:35) trapsize 4411
+\i (01:39:35) zoom in 1 
+\i (01:39:35) setwindow pcb
+\i (01:39:35) zoom in -60.0703 14.6966
+\i (01:39:35) trapsize 2206
+\i (01:39:36) spin 
+\t (01:39:36) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:36) iangle 90 
+\t (01:39:36) last angle:  0.000 Degrees
+\i (01:39:36) placementedit 
+\i (01:39:36) trapsize 2206
+\i (01:39:36) spin 
+\t (01:39:36) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:36) iangle 90 
+\t (01:39:36) last angle:  90.000 Degrees
+\i (01:39:36) placementedit 
+\i (01:39:36) trapsize 2206
+\i (01:39:37) pick grid -56.0121 20.8281
+\t (01:39:37) last pick:  -56.0000  20.8000
+\i (01:39:38) zoom out 1 
+\i (01:39:38) setwindow pcb
+\i (01:39:38) zoom out -54.6446 16.9904
+\i (01:39:38) trapsize 4411
+\i (01:39:38) pick grid -53.4095 12.5793
+\t (01:39:38) last pick:  -53.4000  12.6000
+\i (01:39:38) move 
+\t (01:39:39) last pick:  -53.4000  12.6000
+\t (01:39:39) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:39) Pick new location for the element(s).
+\i (01:39:39) spin 
+\t (01:39:39) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\i (01:39:39) iangle 90 
+\t (01:39:39) last angle:  180.000 Degrees
+\i (01:39:39) placementedit 
+\i (01:39:39) trapsize 4411
+\i (01:39:40) pick grid -53.6742 12.7558
+\t (01:39:40) last pick:  -53.7000  12.8000
+\i (01:39:40) move 
+\t (01:39:40) last pick:  -53.7000  12.8000
+\t (01:39:40) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:39:40) Pick new location for the element(s).
+\i (01:39:42) pick grid -60.9967 16.0200
+\t (01:39:42) last pick:  -61.0000  16.0000
+\i (01:39:42) placementedit 
+\i (01:39:43) zoom out 1 
+\i (01:39:43) setwindow pcb
+\i (01:39:43) zoom out -50.4981 23.8718
+\i (01:39:43) trapsize 8822
+\i (01:39:43) zoom in 1 
+\i (01:39:43) setwindow pcb
+\i (01:39:43) zoom in -50.6746 23.8719
+\i (01:39:43) trapsize 4411
+\i (01:39:45) pick grid -35.2356 28.5477
+\t (01:39:45) last pick:  -35.2000  28.5000
+\i (01:39:46) move 
+\t (01:39:46) last pick:  -35.2000  28.5000
+\t (01:39:46) Moving C23 / CAP_PCAP_6P3X7P7-ELECT_100UF / PCAP_6P3X7P7-ELECT.
+\t (01:39:46) Pick new location for the element(s).
+\i (01:39:47) pick grid -47.0574 10.7267
+\t (01:39:47) last pick:  -47.1000  10.7000
+\i (01:39:47) placementedit 
+\i (01:39:49) zoom out 1 
+\i (01:39:49) setwindow pcb
+\i (01:39:49) zoom out -56.4973 28.1949
+\i (01:39:49) trapsize 8822
+\i (01:39:49) zoom in 1 
+\i (01:39:49) setwindow pcb
+\i (01:39:49) zoom in -53.6741 30.8415
+\i (01:39:49) trapsize 4411
+\i (01:39:52) zoom in 1 
+\i (01:39:52) setwindow pcb
+\i (01:39:52) zoom in -49.6159 13.7263
+\i (01:39:52) trapsize 2206
+\i (01:39:52) zoom out 1 
+\i (01:39:52) setwindow pcb
+\i (01:39:52) zoom out -48.3807 15.7555
+\i (01:39:52) trapsize 4411
+\i (01:39:53) zoom out 1 
+\i (01:39:53) setwindow pcb
+\i (01:39:53) zoom out -39.8231 30.6651
+\i (01:39:53) trapsize 8822
+\i (01:39:54) pick grid -35.9413 41.4282
+\t (01:39:54) last pick:  -35.9000  41.4000
+\i (01:39:54) move 
+\t (01:39:54) last pick:  -35.9000  41.4000
+\t (01:39:54) Moving C22 / CAP_PCAP_6P3X7P7-ELECT_100UF / PCAP_6P3X7P7-ELECT.
+\t (01:39:54) Pick new location for the element(s).
+\i (01:39:58) zoom in 1 
+\i (01:39:58) setwindow pcb
+\i (01:39:58) zoom in -48.6454 22.7250
+\i (01:39:58) trapsize 4411
+\i (01:39:58) zoom in 1 
+\i (01:39:58) setwindow pcb
+\i (01:39:58) zoom in -48.6454 22.7250
+\i (01:39:58) trapsize 2206
+\i (01:40:01) pick grid -47.8514 22.7251
+\t (01:40:01) last pick:  -47.9000  22.7000
+\i (01:40:01) placementedit 
+\i (01:40:01) zoom out 1 
+\i (01:40:01) setwindow pcb
+\i (01:40:01) zoom out -47.9396 22.7251
+\i (01:40:01) trapsize 4411
+\i (01:40:02) prepopup -42.6462 32.1649
+\i (01:40:03) pick grid -42.8227 33.8411
+\t (01:40:03) last pick:  -42.8000  33.8000
+\i (01:40:04) zoom out 1 
+\i (01:40:04) setwindow pcb
+\i (01:40:04) zoom out -46.4398 24.3131
+\i (01:40:04) trapsize 8822
+\i (01:40:05) zoom in 1 
+\i (01:40:05) setwindow pcb
+\i (01:40:05) zoom in -46.0869 27.6655
+\i (01:40:05) trapsize 4411
+\i (01:40:05) zoom in 1 
+\i (01:40:05) setwindow pcb
+\i (01:40:05) zoom in -46.0869 27.8419
+\i (01:40:05) trapsize 2206
+\i (01:40:05) zoom out 1 
+\i (01:40:05) setwindow pcb
+\i (01:40:05) zoom out -46.3515 27.8419
+\i (01:40:05) trapsize 4411
+\i (01:40:06) zoom out 1 
+\i (01:40:06) setwindow pcb
+\i (01:40:06) zoom out -41.1464 39.1345
+\i (01:40:06) trapsize 8822
+\i (01:40:06) zoom out 1 
+\i (01:40:06) setwindow pcb
+\i (01:40:06) zoom out -41.1465 38.9580
+\i (01:40:06) trapsize 17645
+\i (01:40:07) zoom in 1 
+\i (01:40:07) setwindow pcb
+\i (01:40:07) zoom in -35.1473 49.1918
+\i (01:40:07) trapsize 8822
+\i (01:40:07) zoom in 1 
+\i (01:40:07) setwindow pcb
+\i (01:40:07) zoom in -49.7923 32.7823
+\i (01:40:07) trapsize 4411
+\i (01:40:08) pick grid -56.4090 28.9888
+\t (01:40:08) last pick:  -56.4000  29.0000
+\i (01:40:08) move 
+\t (01:40:09) last pick:  -56.4000  29.0000
+\t (01:40:09) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:40:09) Pick new location for the element(s).
+\i (01:40:10) pick grid -56.9383 30.2239
+\t (01:40:10) last pick:  -56.9000  30.2000
+\i (01:40:10) placementedit 
+\i (01:40:10) zoom out 1 
+\i (01:40:10) setwindow pcb
+\i (01:40:10) zoom out -56.9383 30.2239
+\i (01:40:10) trapsize 8822
+\i (01:40:11) zoom in 1 
+\i (01:40:11) setwindow pcb
+\i (01:40:11) zoom in -57.4676 45.7511
+\i (01:40:11) trapsize 4411
+\i (01:40:11) pick grid -57.7322 43.6338
+\t (01:40:11) last pick:  -57.7000  43.6000
+\i (01:40:11) move 
+\t (01:40:11) last pick:  -57.7000  43.6000
+\t (01:40:11) Moving U2 / POWER_SUPPLY_CON_CUI_PJ-035D_PO / CUI_PJ-035D.
+\t (01:40:12) Pick new location for the element(s).
+\i (01:40:12) pick grid -57.7322 46.1922
+\t (01:40:12) last pick:  -57.7000  46.2000
+\i (01:40:12) placementedit 
+\i (01:40:13) pick grid -57.0265 30.4004
+\t (01:40:13) last pick:  -57.0000  30.4000
+\i (01:40:13) move 
+\t (01:40:13) last pick:  -57.0000  30.4000
+\t (01:40:13) Moving C21 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:40:13) Pick new location for the element(s).
+\i (01:40:15) pick grid -57.9969 33.1353
+\t (01:40:15) last pick:  -58.0000  33.1000
+\i (01:40:15) placementedit 
+\i (01:40:16) pick grid -56.6736 16.7258
+\t (01:40:16) last pick:  -56.7000  16.7000
+\i (01:40:16) move 
+\t (01:40:16) last pick:  -56.7000  16.7000
+\t (01:40:16) Moving C20 / CAP_U1-Z_1000UF / U1-Z.
+\t (01:40:16) Pick new location for the element(s).
+\i (01:40:17) pick grid -58.0851 20.0783
+\t (01:40:17) last pick:  -58.1000  20.1000
+\i (01:40:17) placementedit 
+\i (01:40:18) pick grid -48.3806 29.4299
+\t (01:40:18) last pick:  -48.4000  29.4000
+\i (01:40:18) move 
+\t (01:40:18) last pick:  -48.4000  29.4000
+\t (01:40:18) Moving C22 / CAP_PCAP_6P3X7P7-ELECT_100UF / PCAP_6P3X7P7-ELECT.
+\t (01:40:18) Pick new location for the element(s).
+\i (01:40:19) pick grid -48.3806 35.0762
+\t (01:40:19) last pick:  -48.4000  35.1000
+\i (01:40:20) placementedit 
+\i (01:40:22) pick grid -47.9395 16.2847
+\t (01:40:22) last pick:  -47.9000  16.3000
+\i (01:40:22) move 
+\t (01:40:22) last pick:  -47.9000  16.3000
+\t (01:40:22) Moving C23 / CAP_PCAP_6P3X7P7-ELECT_100UF / PCAP_6P3X7P7-ELECT.
+\t (01:40:22) Pick new location for the element(s).
+\i (01:40:24) pick grid -47.6748 20.3430
+\t (01:40:24) last pick:  -47.7000  20.3000
+\i (01:40:24) placementedit 
+\i (01:40:26) pick grid -38.4114 39.5755
+\t (01:40:26) last pick:  -38.4000  39.6000
+\i (01:40:26) move 
+\t (01:40:26) last pick:  -38.4000  39.6000
+\t (01:40:26) Moving F2 / FUSE_FUSER_1206L012WR_1206L012W / FUSER_1206L012WR.
+\t (01:40:26) Pick new location for the element(s).
+\i (01:40:27) spin 
+\t (01:40:27) Moving F2 / FUSE_FUSER_1206L012WR_1206L012W / FUSER_1206L012WR.
+\i (01:40:27) iangle 90 
+\t (01:40:27) last angle:  90.000 Degrees
+\i (01:40:27) placementedit 
+\i (01:40:27) trapsize 4411
+\i (01:40:27) spin 
+\t (01:40:27) Moving F2 / FUSE_FUSER_1206L012WR_1206L012W / FUSER_1206L012WR.
+\i (01:40:27) iangle 90 
+\t (01:40:27) last angle:  180.000 Degrees
+\i (01:40:27) placementedit 
+\i (01:40:27) trapsize 4411
+\i (01:40:28) spin 
+\t (01:40:28) Moving F2 / FUSE_FUSER_1206L012WR_1206L012W / FUSER_1206L012WR.
+\i (01:40:28) iangle 90 
+\t (01:40:28) last angle:  270.000 Degrees
+\i (01:40:28) placementedit 
+\i (01:40:28) trapsize 4411
+\i (01:40:29) pick grid -39.7348 39.5755
+\t (01:40:29) last pick:  -39.7000  39.6000
+\i (01:40:29) move 
+\t (01:40:29) last pick:  -39.7000  39.6000
+\t (01:40:29) Moving F2 / FUSE_FUSER_1206L012WR_1206L012W / FUSER_1206L012WR.
+\t (01:40:29) Pick new location for the element(s).
+\i (01:40:30) pick grid -42.6461 28.7241
+\t (01:40:30) last pick:  -42.6000  28.7000
+\i (01:40:31) placementedit 
+\i (01:40:33) pick grid -31.0007 42.3104
+\t (01:40:33) last pick:  -31.0000  42.3000
+\i (01:40:33) move 
+\t (01:40:33) last pick:  -31.0000  42.3000
+\t (01:40:33) Moving C25 / CAP_CC0805_10UF / CC0805.
+\t (01:40:33) Pick new location for the element(s).
+\i (01:40:34) pick grid -39.5583 30.2239
+\t (01:40:34) last pick:  -39.6000  30.2000
+\i (01:40:35) placementedit 
+\i (01:40:36) pick grid -29.1481 41.6046
+\t (01:40:36) last pick:  -29.1000  41.6000
+\i (01:40:36) move 
+\t (01:40:36) last pick:  -29.1000  41.6000
+\t (01:40:36) Moving C24 / CAP_CC0805_10UF / CC0805.
+\t (01:40:36) Pick new location for the element(s).
+\i (01:40:37) pick grid -37.7057 29.4299
+\t (01:40:37) last pick:  -37.7000  29.4000
+\i (01:40:37) placementedit 
+\i (01:40:39) pick grid -30.7361 35.2526
+\t (01:40:39) last pick:  -30.7000  35.3000
+\i (01:40:39) move 
+\t (01:40:39) last pick:  -30.7000  35.3000
+\t (01:40:39) Moving C27 / CAP NP_0_CC0603_100N / CC0603.
+\t (01:40:39) Pick new location for the element(s).
+\i (01:40:39) spin 
+\t (01:40:39) Moving C27 / CAP NP_0_CC0603_100N / CC0603.
+\i (01:40:39) iangle 90 
+\t (01:40:39) last angle:  0.000 Degrees
+\i (01:40:39) placementedit 
+\i (01:40:39) trapsize 4411
+\i (01:40:40) pick grid -31.0007 34.8997
+\t (01:40:40) last pick:  -31.0000  34.9000
+\i (01:40:41) move 
+\t (01:40:41) last pick:  -31.0000  34.9000
+\t (01:40:41) Moving C27 / CAP NP_0_CC0603_100N / CC0603.
+\t (01:40:41) Pick new location for the element(s).
+\i (01:40:41) spin 
+\t (01:40:41) Moving C27 / CAP NP_0_CC0603_100N / CC0603.
+\i (01:40:41) iangle 90 
+\t (01:40:41) last angle:  90.000 Degrees
+\i (01:40:41) placementedit 
+\i (01:40:41) trapsize 4411
+\i (01:40:43) pick grid -32.4123 34.4586
+\t (01:40:43) last pick:  -32.4000  34.5000
+\i (01:40:43) zoom in 1 
+\i (01:40:43) setwindow pcb
+\i (01:40:43) zoom in -33.0299 33.8410
+\i (01:40:43) trapsize 2206
+\i (01:40:44) pick grid -31.3977 33.3117
+\t (01:40:44) last pick:  -31.4000  33.3000
+\i (01:40:44) move 
+\t (01:40:44) last pick:  -31.4000  33.3000
+\t (01:40:44) Moving C27 / CAP NP_0_CC0603_100N / CC0603.
+\t (01:40:44) Pick new location for the element(s).
+\i (01:40:45) pick grid -36.1617 29.7387
+\t (01:40:45) last pick:  -36.2000  29.7000
+\i (01:40:45) placementedit 
+\i (01:40:46) pick grid -35.9412 29.5623
+\t (01:40:46) last pick:  -35.9000  29.6000
+\i (01:40:46) move 
+\t (01:40:46) last pick:  -35.9000  29.6000
+\t (01:40:46) Moving C27 / CAP NP_0_CC0603_100N / CC0603.
+\t (01:40:46) Pick new location for the element(s).
+\i (01:40:47) pick grid -35.7647 29.7387
+\t (01:40:47) last pick:  -35.8000  29.7000
+\i (01:40:47) placementedit 
+\i (01:40:47) pick grid -29.2362 35.6496
+\t (01:40:47) last pick:  -29.2000  35.6000
+\i (01:40:47) move 
+\t (01:40:47) last pick:  -29.2000  35.6000
+\t (01:40:47) Moving C26 / CAP NP_0_CC0603_100N / CC0603.
+\t (01:40:47) Pick new location for the element(s).
+\i (01:40:48) spin 
+\t (01:40:48) Moving C26 / CAP NP_0_CC0603_100N / CC0603.
+\i (01:40:48) iangle 90 
+\t (01:40:48) last angle:  0.000 Degrees
+\i (01:40:48) placementedit 
+\i (01:40:48) trapsize 2206
+\i (01:40:48) spin 
+\t (01:40:48) Moving C26 / CAP NP_0_CC0603_100N / CC0603.
+\i (01:40:48) iangle 90 
+\t (01:40:48) last angle:  90.000 Degrees
+\i (01:40:49) placementedit 
+\i (01:40:49) trapsize 2206
+\i (01:40:49) pick grid -29.3686 34.0175
+\t (01:40:49) last pick:  -29.4000  34.0000
+\i (01:40:49) move 
+\t (01:40:50) last pick:  -29.4000  34.0000
+\t (01:40:50) Moving C26 / CAP NP_0_CC0603_100N / CC0603.
+\t (01:40:50) Pick new location for the element(s).
+\i (01:40:51) pick grid -34.1326 29.7828
+\t (01:40:51) last pick:  -34.1000  29.8000
+\i (01:40:51) placementedit 
+\i (01:40:52) pick grid -40.5729 38.3404
+\t (01:40:52) last pick:  -40.6000  38.3000
+\i (01:40:52) prepopup -40.7493 37.1494
+\i (01:40:53) pick grid -41.3669 38.6492
+\t (01:40:53) last pick:  -41.4000  38.6000
+\i (01:40:54) save 
+\i (01:40:56) fillin yes 
+\i (01:40:56) placementedit 
+\i (01:41:01) zoom out 1 
+\i (01:41:01) setwindow pcb
+\i (01:41:01) zoom out -36.6029 30.9738
+\i (01:41:01) trapsize 4411
+\i (01:41:01) zoom out 1 
+\i (01:41:01) setwindow pcb
+\i (01:41:01) zoom out -36.7792 31.1503
+\i (01:41:01) trapsize 8822
+\i (01:41:03) pick grid -48.0718 20.3871
+\t (01:41:03) last pick:  -48.1000  20.4000
+\i (01:41:03) move 
+\t (01:41:03) last pick:  -48.1000  20.4000
+\t (01:41:03) Moving C23 / CAP_PCAP_6P3X7P7-ELECT_100UF / PCAP_6P3X7P7-ELECT.
+\t (01:41:03) Pick new location for the element(s).
+\i (01:41:07) pick grid -48.2483 23.0338
+\t (01:41:07) last pick:  -48.2000  23.0000
+\i (01:41:07) placementedit 
+\i (01:41:07) zoom in 1 
+\i (01:41:07) setwindow pcb
+\i (01:41:07) zoom in -53.8945 40.1490
+\i (01:41:07) trapsize 4411
+\i (01:41:08) pick grid -51.8653 38.2964
+\t (01:41:08) last pick:  -51.9000  38.3000
+\i (01:41:08) move 
+\t (01:41:08) last pick:  -51.9000  38.3000
+\t (01:41:08) Moving D33 / DIODE 34/DD_0_MINIMELF_DIODE 34 / MINIMELF.
+\t (01:41:08) Pick new location for the element(s).
+\i (01:41:11) zoom in 1 
+\i (01:41:11) setwindow pcb
+\i (01:41:11) zoom in -51.3360 37.3259
+\i (01:41:11) trapsize 2206
+\i (01:41:11) zoom in 1 
+\i (01:41:11) setwindow pcb
+\i (01:41:11) zoom in -51.3801 37.2819
+\i (01:41:11) trapsize 1103
+\i (01:41:12) zoom out 1 
+\i (01:41:12) setwindow pcb
+\i (01:41:12) zoom out -52.0638 37.9657
+\i (01:41:12) trapsize 2206
+\i (01:41:12) zoom in 1 
+\i (01:41:12) setwindow pcb
+\i (01:41:12) zoom in -52.2402 37.9215
+\i (01:41:12) trapsize 1103
+\i (01:41:13) zoom out 1 
+\i (01:41:13) setwindow pcb
+\i (01:41:13) zoom out -52.2622 37.8553
+\i (01:41:13) trapsize 2206
+\i (01:41:13) zoom out 1 
+\i (01:41:13) setwindow pcb
+\i (01:41:13) zoom out -52.2623 37.5907
+\i (01:41:13) trapsize 4411
+\i (01:41:18) spin 
+\t (01:41:18) Moving D33 / DIODE 34/DD_0_MINIMELF_DIODE 34 / MINIMELF.
+\i (01:41:18) iangle 90 
+\t (01:41:18) last angle:  270.000 Degrees
+\i (01:41:18) placementedit 
+\i (01:41:18) trapsize 4411
+\i (01:41:19) pick grid -48.1158 39.8845
+\t (01:41:19) last pick:  -48.1000  39.9000
+\i (01:41:20) pick grid -51.6447 36.0909
+\t (01:41:20) last pick:  -51.6000  36.1000
+\i (01:41:20) move 
+\t (01:41:20) last pick:  -51.6000  36.1000
+\t (01:41:20) Moving D33 / DIODE 34/DD_0_MINIMELF_DIODE 34 / MINIMELF.
+\t (01:41:20) Pick new location for the element(s).
+\i (01:41:21) spin 
+\t (01:41:21) Moving D33 / DIODE 34/DD_0_MINIMELF_DIODE 34 / MINIMELF.
+\i (01:41:21) iangle 90 
+\t (01:41:21) last angle:  0.000 Degrees
+\i (01:41:21) placementedit 
+\i (01:41:21) trapsize 4411
+\i (01:41:22) spin 
+\t (01:41:22) Moving D33 / DIODE 34/DD_0_MINIMELF_DIODE 34 / MINIMELF.
+\i (01:41:22) iangle 90 
+\t (01:41:22) last angle:  90.000 Degrees
+\i (01:41:22) placementedit 
+\i (01:41:22) trapsize 4411
+\i (01:41:23) pick grid -51.6447 36.5320
+\t (01:41:23) last pick:  -51.6000  36.5000
+\i (01:41:23) move 
+\t (01:41:23) last pick:  -51.6000  36.5000
+\t (01:41:23) Moving D33 / DIODE 34/DD_0_MINIMELF_DIODE 34 / MINIMELF.
+\t (01:41:23) Pick new location for the element(s).
+\i (01:41:24) pick grid -52.5269 39.9727
+\t (01:41:24) last pick:  -52.5000  40.0000
+\i (01:41:24) placementedit 
+\i (01:41:26) pick grid -57.3792 37.5025
+\t (01:41:26) last pick:  -57.4000  37.5000
+\i (01:41:26) move 
+\t (01:41:26) last pick:  -57.4000  37.5000
+\t (01:41:26) Moving V2 / SPARK GAP_SPARK_GAP_SPARK GAP / SPARK_GAP.
+\t (01:41:26) Pick new location for the element(s).
+\i (01:41:30) zoom in 1 
+\i (01:41:30) setwindow pcb
+\i (01:41:30) zoom in -54.7325 43.3252
+\i (01:41:30) trapsize 2206
+\i (01:41:30) zoom in 1 
+\i (01:41:30) setwindow pcb
+\i (01:41:30) zoom in -54.7325 43.3252
+\i (01:41:30) trapsize 1103
+\i (01:41:30) zoom in 1 
+\i (01:41:30) setwindow pcb
+\i (01:41:30) zoom in -54.7325 43.3252
+\i (01:41:30) trapsize 551
+\i (01:41:30) zoom out 1 
+\i (01:41:30) setwindow pcb
+\i (01:41:30) zoom out -54.8317 43.3032
+\i (01:41:30) trapsize 1103
+\i (01:41:30) zoom out 1 
+\i (01:41:30) setwindow pcb
+\i (01:41:30) zoom out -55.0081 43.2591
+\i (01:41:30) trapsize 2206
+\i (01:41:32) pick grid -55.5375 41.6270
+\t (01:41:32) last pick:  -55.5000  41.6000
+\i (01:41:32) placementedit 
+\i (01:41:35) pick grid -55.4052 40.7889
+\t (01:41:35) last pick:  -55.4000  40.8000
+\i (01:41:35) move 
+\t (01:41:35) last pick:  -55.4000  40.8000
+\t (01:41:35) Moving V2 / SPARK GAP_SPARK_GAP_SPARK GAP / SPARK_GAP.
+\t (01:41:35) Pick new location for the element(s).
+\i (01:41:36) pick grid -55.8022 41.9799
+\t (01:41:36) last pick:  -55.8000  42.0000
+\i (01:41:36) placementedit 
+\i (01:41:38) pick grid -49.6266 42.3769
+\t (01:41:38) last pick:  -49.6000  42.4000
+\i (01:41:38) zoom out 1 
+\i (01:41:38) setwindow pcb
+\i (01:41:38) zoom out -51.1705 40.3036
+\i (01:41:38) trapsize 4411
+\i (01:41:38) zoom out 1 
+\i (01:41:38) setwindow pcb
+\i (01:41:38) zoom out -51.1705 40.3037
+\i (01:41:38) trapsize 8822
+\i (01:41:38) zoom in 1 
+\i (01:41:38) setwindow pcb
+\i (01:41:38) zoom in -51.5234 37.6569
+\i (01:41:38) trapsize 4411
+\i (01:41:38) zoom in 1 
+\i (01:41:38) setwindow pcb
+\i (01:41:38) zoom in -51.5233 37.6569
+\i (01:41:38) trapsize 2206
+\i (01:41:39) pick grid -52.9790 36.7306
+\t (01:41:39) last pick:  -53.0000  36.7000
+\i (01:41:39) move 
+\t (01:41:39) last pick:  -53.0000  36.7000
+\t (01:41:39) Moving D33 / DIODE 34/DD_0_MINIMELF_DIODE 34 / MINIMELF.
+\t (01:41:39) Pick new location for the element(s).
+\i (01:41:42) pick grid -53.2878 36.8630
+\t (01:41:42) last pick:  -53.3000  36.9000
+\i (01:41:42) placementedit 
+\i (01:41:42) zoom out 1 
+\i (01:41:42) setwindow pcb
+\i (01:41:42) zoom out -54.3464 37.2158
+\i (01:41:42) trapsize 4411
+\i (01:41:42) zoom out 1 
+\i (01:41:42) setwindow pcb
+\i (01:41:42) zoom out -54.3465 37.2159
+\i (01:41:42) trapsize 8822
+\i (01:41:42) zoom in 1 
+\i (01:41:42) setwindow pcb
+\i (01:41:42) zoom in -51.8762 31.7461
+\i (01:41:42) trapsize 4411
+\i (01:41:43) zoom out 1 
+\i (01:41:43) setwindow pcb
+\i (01:41:43) zoom out -51.9644 31.7461
+\i (01:41:43) trapsize 8822
+\i (01:41:44) zoom out 1 
+\i (01:41:44) setwindow pcb
+\i (01:41:44) zoom out -34.3198 35.2750
+\i (01:41:44) trapsize 17645
+\i (01:41:45) zoom in 1 
+\i (01:41:45) setwindow pcb
+\i (01:41:45) zoom in -43.8479 64.5649
+\i (01:41:45) trapsize 8822
+\i (01:41:46) pick grid -46.4945 58.7423
+\t (01:41:46) last pick:  -46.5000  58.7000
+\i (01:41:46) move 
+\t (01:41:46) last pick:  -46.5000  58.7000
+\t (01:41:46) Moving J3 / RST_SW_5-1437565-0_RST / SW_5-1437565-0.
+\t (01:41:46) Pick new location for the element(s).
+\i (01:41:49) pick grid -43.4950 43.0386
+\t (01:41:49) last pick:  -43.5000  43.0000
+\i (01:41:49) placementedit 
+\i (01:41:49) zoom in 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom in -37.6723 56.6249
+\i (01:41:49) trapsize 4411
+\i (01:41:50) zoom out 1 
+\i (01:41:50) setwindow pcb
+\i (01:41:50) zoom out -38.1133 56.8013
+\i (01:41:50) trapsize 8822
+\i (01:41:50) prepopup -41.1130 70.7406
+\i (01:41:51) pick grid -45.3477 75.5046
+\t (01:41:51) last pick:  -45.3000  75.5000
+\i (01:41:51) save 
+\i (01:41:53) fillin yes 
+\i (01:41:53) placementedit 
+\i (01:41:55) exit 
+\t (01:41:55)     Journal end - Fri Jun 28 22:41:30 2019
