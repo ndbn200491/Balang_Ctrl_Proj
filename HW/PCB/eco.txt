@@ -2,258 +2,147 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd            |
-|                                                    Thu Jun 27 22:20:39 2019  |
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190629.brd            |
+|                                                    Wed Jul 03 23:05:28 2019  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  A0           pins MOVED FROM this net (to net name listed on right)
-                                 C17.1           -31.320 -78.000
-                                                                             A6
-                                 D32.C           -30.435 -80.100
-                                                                             A6
-                                 R18.1           -29.525 -82.200
-                                                                             A6
-                                 R34.2           -31.320 -76.600
-                                                                             A6
+  N18830664    pins ADDED TO this existing net (pins not previously on any net)
+                                 D138.C                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A1           pins MOVED FROM this net (to net name listed on right)
-                                 C16.1           -24.720 -78.100
-                                                                             A7
-                                 D31.C           -23.835 -80.200
-                                                                             A7
-                                 R17.1           -22.875 -82.200
-                                                                             A7
-                                 R33.2           -24.720 -76.700
-                                                                             A7
+  N18830721    pins ADDED TO this existing net (pins not previously on any net)
+                                 D138.A                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A2           pins MOVED FROM this net (to net name listed on right)
-                                 C15.1           -18.134 -78.000
-                                                                             A8
-                                 D30.C           -17.249 -80.100
-                                                                             A8
-                                 R16.1           -16.325 -82.200
-                                                                             A8
-                                 R32.2           -18.134 -76.600
-                                                                             A8
+  N18834265    pins ADDED TO this existing net (pins not previously on any net)
+                                 D139.C                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A3           pins MOVED FROM this net (to net name listed on right)
-                                 C14.1           -10.900 -78.010
-                                                                             A9
-                                 D29.C           -10.015 -80.110
-                                                                             A9
-                                 R15.1           -9.8750 -82.200
-                                                                             A9
-                                 R31.2           -10.900 -76.610
-                                                                             A9
+  N18834297    pins ADDED TO this existing net (pins not previously on any net)
+                                 D139.A                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A4           pins MOVED FROM this net (to net name listed on right)
-                                 C13.1           -4.5000 -78.110
-                                                                            A10
-                                 D28.C           -3.6150 -80.210
-                                                                            A10
+  N18834382    pins ADDED TO this existing net (pins not previously on any net)
+                                 D140.C                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18834414    pins ADDED TO this existing net (pins not previously on any net)
+                                 D140.A                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18834502    pins ADDED TO this existing net (pins not previously on any net)
+                                 D141.C                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18834534    pins ADDED TO this existing net (pins not previously on any net)
+                                 D141.A                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18834625    pins ADDED TO this existing net (pins not previously on any net)
+                                 D142.C                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18834657    pins ADDED TO this existing net (pins not previously on any net)
+                                 D142.A                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18834971    pins ADDED TO this existing net (pins not previously on any net)
+                                 D143.C                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18835004    pins ADDED TO this existing net (pins not previously on any net)
+                                 D143.A                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18835026    pins ADDED TO this existing net (pins not previously on any net)
+                                 D144.C                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18835051    pins ADDED TO this existing net (pins not previously on any net)
+                                 D144.A                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18835081    pins ADDED TO this existing net (pins not previously on any net)
+                                 D145.C                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd            |
-|                                                    Thu Jun 27 22:20:39 2019  |
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190629.brd            |
+|                                                    Wed Jul 03 23:05:28 2019  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 R14.1           -3.5750 -82.200
-                                                                            A10
-                                 R30.2           -4.5000 -76.710
-                                                                            A10
+  N18835114    pins ADDED TO this existing net (pins not previously on any net)
+                                 D145.A                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A5           pins MOVED FROM this net (to net name listed on right)
-                                 C12.1            2.2000 -77.810
-                                                                            A11
-                                 D27.C            3.0850 -79.910
-                                                                            A11
-                                 R13.1            3.0750 -82.200
-                                                                            A11
-                                 R29.2            2.2000 -76.410
-                                                                            A11
+  N18835145    pins ADDED TO this existing net (pins not previously on any net)
+                                 D146.C                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A6           pins MOVED FROM this net (to net name listed on right)
-                                 C11.1            7.7800 -77.800
-                                                                            A12
-                                 D26.C            8.6650 -79.900
-                                                                            A12
-                                 R12.1            9.5750 -82.200
-                                                                            A12
-                                 R28.2            7.7800 -76.400
-                                                                            A12
+  N18835177    pins ADDED TO this existing net (pins not previously on any net)
+                                 D146.A                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A7           pins MOVED FROM this net (to net name listed on right)
-                                 C10.1           14.1800 -77.762
-                                                                            A13
-                                 D25.C           15.0650 -79.862
-                                                                            A13
-                                 R11.1           16.0604 -82.200
-                                                                            A13
-                                 R27.2           14.1800 -76.362
-                                                                            A13
+  N18835194    pins ADDED TO this existing net (pins not previously on any net)
+                                 D147.C                         
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A8           pins MOVED FROM this net (to net name listed on right)
-                                 C9.1            20.5202 -77.800
-                                                                            A14
-                                 D24.C           21.4052 -79.900
-                                                                            A14
-                                 R10.1           22.5604 -82.200
-                                                                            A14
-                                 R26.2           20.5202 -76.400
-                                                                            A14
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18835226    pins ADDED TO this existing net (pins not previously on any net)
+                                 D147.A                         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd            |
-|                                                    Thu Jun 27 22:20:39 2019  |
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190629.brd            |
+|                                                    Wed Jul 03 23:05:28 2019  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  A9           pins MOVED FROM this net (to net name listed on right)
-                                 C8.1            27.2316 -77.700
-                                                                            A15
-                                 D23.C           28.1166 -79.800
-                                                                            A15
-                                 R9.1            29.0104 -82.200
-                                                                            A15
-                                 R25.2           27.2316 -76.300
-                                                                            A15
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A10          pins MOVED FROM this net (to net name listed on right)
-                                 C7.1            -77.300 -39.789
-                                                                             A0
-                                 D22.C           -96.428 -30.770
-                                                                             A0
-                                 R8.1            -105.30 -57.489
-                                                                             A0
-                                 R24.2           -194.90  4.5250
-                                                                             A0
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A11          pins MOVED FROM this net (to net name listed on right)
-                                 C6.1            -80.100 -39.789
-                                                                             A1
-                                 D21.C           -102.53 -30.770
-                                                                             A1
-                                 R7.1            -122.10 -57.489
-                                                                             A1
-                                 R23.2           -194.90  5.8750
-                                                                             A1
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A12          pins MOVED FROM this net (to net name listed on right)
-                                 C5.1            -82.900 -39.789
-                                                                             A2
-                                 D20.C           -108.65 -30.770
-                                                                             A2
-                                 R6.1            -193.60 -29.225
-                                                                             A2
-                                 R22.2           -194.90  7.2250
-                                                                             A2
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A13          pins MOVED FROM this net (to net name listed on right)
-                                 C4.1            -85.700 -39.789
-                                                                             A3
-                                 D19.C           -114.76 -30.770
-                                                                             A3
+ LED_2_LEDSC160X80X70L45N_LED
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd            |
-|                                                    Thu Jun 27 22:20:39 2019  |
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190629.brd            |
+|                                                    Wed Jul 03 23:05:28 2019  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 R5.1            -193.60 -21.125
-                                                                             A3
-                                 R21.2           -194.90  8.5750
-                                                                             A3
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A14          pins MOVED FROM this net (to net name listed on right)
-                                 C3.1            -88.500 -39.789
-                                                                             A4
-                                 D18.C           -120.87 -30.770
-                                                                             A4
-                                 R4.1            -193.60 -17.075
-                                                                             A4
-                                 R20.2           -194.90  9.9250
-                                                                             A4
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  A15          pins MOVED FROM this net (to net name listed on right)
-                                 C2.1            -91.300 -39.789
-                                                                             A5
-                                 D17.C           -78.093 -30.770
-                                                                             A5
-                                 R3.1            -193.60 -14.375
-                                                                             A5
-                                 R19.2           -194.90 11.2750
-                                                                             A5
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND          pins MOVED FROM this net (to net name listed on right)
-                                 J1.1            -187.16 -56.275
-                                                                      N18542223
-                                 J1.2            -182.08 -56.275
-                                                                      N18822314
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N18542223    pins MOVED FROM this net (to net name listed on right)
-                                 J1.5            -166.84 -56.275
-                                                                      N18542239
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N18542225    pins MOVED FROM this net (to net name listed on right)
-                                 D2.A            -157.61 -7.8007
-                                                                      N18822314
-                                 J1.6            -161.76 -56.275
-                                                                      N18822355
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N18542227    pins MOVED FROM this net (to net name listed on right)
-                                 D3.A            -86.591 -37.992
-                                                                      N18822323
-                                 J1.7            -156.68 -56.275
+ D138                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D139                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D140                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D141                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D142                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D143                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D144                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D145                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D146                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
+ D147                LED_2_LEDSC160X80X70L45N_LED                 LED_LEDSC160X80X70L45N_LED
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd            |
-|                                                    Thu Jun 27 22:20:39 2019  |
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190629.brd            |
+|                                                    Wed Jul 03 23:05:28 2019  |
 |------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
+| SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                                                        VCC_12V
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N18542237    pins MOVED FROM this net (to net name listed on right)
-                                 J1.8            -151.60 -56.275
-                                                                        VCC_12V
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N18542239    pins MOVED FROM this net (to net name listed on right)
-                                 J1.9            -146.52 -56.275
-                                                                            GND
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N18542241    pins MOVED FROM this net (to net name listed on right)
-                                 D6.A            -183.37  5.5500
-                                                                      N18822355
-                                 J1.10           -141.44 -56.275
-                                                                            GND
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC_12V      pins MOVED FROM this net (to net name listed on right)
-                                 J1.3            -177.00 -56.275
-                                                                      N18822323
-                                 J1.4            -171.92 -56.275
-                                                                      N18542237
+ D138.C                         PRIM_FILE      .\pstchip.dat
+ D138.C                         SECTION        
+ D139.C                         PRIM_FILE      .\pstchip.dat
+ D139.C                         SECTION        
+ D140.C                         PRIM_FILE      .\pstchip.dat
+ D140.C                         SECTION        
+ D141.C                         PRIM_FILE      .\pstchip.dat
+ D141.C                         SECTION        
+ D142.C                         PRIM_FILE      .\pstchip.dat
+ D142.C                         SECTION        
+ D143.C                         PRIM_FILE      .\pstchip.dat
+ D143.C                         SECTION        
+ D144.C                         PRIM_FILE      .\pstchip.dat
+ D144.C                         SECTION        
+ D145.C                         PRIM_FILE      .\pstchip.dat
+ D145.C                         SECTION        
+ D146.C                         PRIM_FILE      .\pstchip.dat
+ D146.C                         SECTION        
+ D147.C                         PRIM_FILE      .\pstchip.dat
+ D147.C                         SECTION        
 |------------------------------------------------------------------------------|
-|   total ECO changes reported  77                                             |
+|   total ECO changes reported  51                                             |
 |------------------------------------------------------------------------------|

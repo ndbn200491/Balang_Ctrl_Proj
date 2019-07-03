@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : Balang_Ctrl_V1_0_20190629.brd                 )
+(    Drawing          : Balang_Ctrl_V1_0_20190624.brd                 )
 (    Software Version : 16.6S018                                      )
-(    Date/Time        : Wed Jul 03 23:05:28 2019                      )
+(    Date/Time        : Thu Jun 27 22:20:38 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,17 +18,17 @@ RIPUP_SYMBOLS ALWAYS;
 Missing symbol has error FALSE;
 SCHEMATIC_DIRECTORY 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist';
 BOARD_DIRECTORY '';
-OLD_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190629.brd';
-NEW_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190629.brd';
+OLD_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd';
+NEW_BOARD_NAME 'D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190624.brd';
 
-CmdLine: netrev -$ -i D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist -u -t -y 1 -z -v D:/Project/Balang_Ctrl_Proj/HW/PCB/#Taaaaah04476.tmp
+CmdLine: netrev -$ -i D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist -u -t -y 1 -z -v D:/Project/Balang_Ctrl_Proj/HW/PCB/#Taaaaai04612.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstchip.dat 
-   Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstchip.dat (00:00:00.10)
+   Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstchip.dat (00:00:00.11)
 Starting to read D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxprt.dat 
-   Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxprt.dat (00:00:00.04)
+   Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxprt.dat (00:00:00.03)
 Starting to read D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxnet.dat 
    Finished reading D:/Project/Balang_Ctrl_Proj/HW/PCB/Nestlist/pstxnet.dat (00:00:00.03)
 
@@ -61,7 +61,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jul 3 23:05:28 2019
+netrev run on Jun 27 22:20:38 2019
    DESIGN NAME : 'BALANG_CTRL_HW_V1_0'
    PACKAGING ON Sep 14 2013 00:32:48
 
@@ -86,6 +86,6 @@ netrev run on Jul 3 23:05:28 2019
  No oversight detected
  No warning detected
 
-cpu time      0:01:58
-elapsed time  0:00:00
+cpu time      0:01:55
+elapsed time  0:00:01
 

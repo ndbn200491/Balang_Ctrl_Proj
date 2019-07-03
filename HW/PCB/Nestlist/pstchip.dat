@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jun-27-2019 at 22:20:16}
+{ Using PSTWRITER 16.6.0 d001Jul-03-2019 at 23:05:20}
 primitive 'CAP NP_0_CC0603_100N';
   pin
     '1':
@@ -118,6 +118,21 @@ primitive 'ZENER_AK_6_SOD3716X117N_ZEN';
     PART_NAME='ZENER_AK_6';
     JEDEC_TYPE='SOD3716X117N';
     VALUE='ZEN';
+  end_body;
+end_primitive;
+primitive 'LED_2_LEDSC160X80X70L45N_LED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(C)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED_2';
+    JEDEC_TYPE='LEDSC160X80X70L45N';
+    VALUE='LED';
   end_body;
 end_primitive;
 primitive 'DIODE 34/DD_0_MINIMELF_DIODE 34';
@@ -318,6 +333,36 @@ primitive 'R_RC0603_1K';
     VALUE='1k';
   end_body;
 end_primitive;
+primitive 'R_RC0603_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RC0603';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'R_RC0805_330R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='rc0805';
+    VALUE='330R';
+  end_body;
+end_primitive;
 primitive 'R_RC0603_R';
   pin
     '1':
@@ -346,21 +391,6 @@ primitive 'R_RC0805_10R';
     PART_NAME='R';
     JEDEC_TYPE='rc0805';
     VALUE='10R';
-  end_body;
-end_primitive;
-primitive 'R_RC0603_10K';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='RC0603';
-    VALUE='10k';
   end_body;
 end_primitive;
 primitive 'ATMEGA2560_SHIELD_1_ATMEGA2560_';
