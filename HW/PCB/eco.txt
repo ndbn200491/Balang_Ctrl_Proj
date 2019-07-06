@@ -1,0 +1,315 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  /3V3         pins ADDED TO this new net
+                                 C80.1                          
+                                 C81.1                          
+                                 C82.1                          
+                                 D148.A                         
+                                 D149.A                         
+                                 R162.1                         
+                                 R163.2                         
+                                 R167.2                         
+                                 U5.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  /RX0         pins ADDED TO this new net
+                                 J11.8                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  /RX3         pins ADDED TO this new net
+                                 J11.7                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  /TX0         pins ADDED TO this new net
+                                 J11.6                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  /TX3         pins ADDED TO this new net
+                                 J11.5                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V           pins ADDED TO this existing net (pins not previously on any net)
+                                 C83.1                          
+                                 C84.1                          
+                                 C85.1                          
+                                 R164.2                         
+                                 R165.1                         
+                                 R166.2                         
+                                 U4.15                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D0           pins MOVED FROM this net (to net name listed on right)
+                                 U1.86           -5.1000 102.550
+                                                                           /RX0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D1           pins MOVED FROM this net (to net name listed on right)
+                                 U1.1            -7.6400 102.550
+                                                                           /TX0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D14          pins MOVED FROM this net (to net name listed on right)
+                                 C75.1           12.2746 115.402
+                                                                           /TX3
+                                 D134.C          10.9550 117.799
+                                                                           /TX3
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R133.2          12.2746 114.002
+                                                                           /TX3
+                                 R137.1          12.1250 120.798
+                                                                           /TX3
+                                 U1.14           -0.0200 102.550
+                                                                           /TX3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D15          pins MOVED FROM this net (to net name listed on right)
+                                 C71.1           19.6400 115.399
+                                                                           /RX3
+                                 D126.C          17.4750 117.799
+                                                                           /RX3
+                                 R125.2          19.6400 113.999
+                                                                           /RX3
+                                 R129.1          18.6000 120.798
+                                                                           /RX3
+                                 U1.15            2.5200 102.550
+                                                                           /RX3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ESP_RX       pins ADDED TO this new net
+                                 J10.7                          
+                                 J10.8                          
+                                 Q12.2                          
+                                 R163.1                         
+                                 U5.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ESP_TX       pins ADDED TO this new net
+                                 J10.5                          
+                                 J10.6                          
+                                 Q13.3                          
+                                 R167.1                         
+                                 U5.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C80.2                          
+                                 C81.2                          
+                                 C82.2                          
+                                 C83.2                          
+                                 C84.2                          
+                                 C85.2                          
+                                 U4.14                          
+                                 U4.17                          
+                                 U5.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18490587    pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.73           -33.040 54.2900
+                                                                           /3V3
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18849607    pins ADDED TO this new net
+                                 J10.1                          
+                                 U4.28                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18849628    pins ADDED TO this new net
+                                 J10.2                          
+                                 J12.2                          
+                                 U4.22                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18849641    pins ADDED TO this new net
+                                 J10.4                          
+                                 U4.21                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18849709    pins ADDED TO this new net
+                                 Q12.1                          
+                                 R162.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18849861    pins ADDED TO this new net
+                                 J11.1                          
+                                 J11.2                          
+                                 Q12.3                          
+                                 R164.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18850134    pins ADDED TO this new net
+                                 Q13.1                          
+                                 R165.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18850214    pins ADDED TO this new net
+                                 J11.3                          
+                                 J11.4                          
+                                 Q13.2                          
+                                 R166.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18850489    pins ADDED TO this new net
+                                 J10.3                          
+                                 U4.27                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18853922    pins ADDED TO this new net
+                                 J12.1                          
+                                 U4.20                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18859185    pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 D148.C                         
+                                 U5.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18859272    pins ADDED TO this new net
+                                 D149.C                         
+                                 U4.16                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ATMEGA2560_SHIELD_3_ATMEGA2560_
+ CAP NP_CC0603_CAP NP
+ ESP32_1_ESPLUANODE_ESP32
+ ESP8266_ESP8266_01_ESP
+ JUMPER_CC0805_JUMPER
+ JUMPER_JUMBER_4X4_JUMPER
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C80                 CAP NP_CC0603_CAP NP  
+ C81                 CAP NP_CC0603_CAP NP  
+ C82                 CAP NP_CC0603_CAP NP  
+ C83                 CAP NP_CC0603_CAP NP  
+ C84                 CAP NP_CC0603_CAP NP  
+ C85                 CAP NP_CC0603_CAP NP  
+ D148                DIODE_6_MINIMELF_DIODE 
+ D149                DIODE_6_MINIMELF_DIODE 
+ J10                 JUMPER_JUMBER_4X4_JUMPER 
+ J11                 JUMPER_JUMBER_4X4_JUMPER 
+ J12                 JUMPER_CC0805_JUMPER  
+ Q12                 BUZ84A_SOT95P237X112-3N_IRF150 
+ Q13                 BUZ84A_SOT95P237X112-3N_IRF150 
+ R162                R_RC0603_10K          
+ R163                R_RC0603_10K          
+ R164                R_RC0603_10K          
+ R165                R_RC0603_10K          
+ R166                R_RC0603_10K          
+ R167                R_RC0603_10K          
+ U4                  ESP32_1_ESPLUANODE_ESP32 
+ U5                  ESP8266_ESP8266_01_ESP 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1                  ATMEGA2560_SHIELD_3_ATMEGA2560_ -68.600 51.7500 ATMEGA2560_SHIELD_1_ATMEGA2560_
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C80.2                          PRIM_FILE      .\pstchip.dat
+ C80.2                          SECTION        
+ C81.2                          PRIM_FILE      .\pstchip.dat
+ C81.2                          SECTION        
+ C82.2                          PRIM_FILE      .\pstchip.dat
+ C82.2                          SECTION        
+ C83.2                          PRIM_FILE      .\pstchip.dat
+ C83.2                          SECTION        
+ C84.2                          PRIM_FILE      .\pstchip.dat
+ C84.2                          SECTION        
+ C85.2                          PRIM_FILE      .\pstchip.dat
+ C85.2                          SECTION        
+ D148.C                         PRIM_FILE      .\pstchip.dat
+ D148.C                         SECTION        
+ D149.C                         PRIM_FILE      .\pstchip.dat
+ D149.C                         SECTION        
+ J10.8                          PRIM_FILE      .\pstchip.dat
+ J10.8                          SECTION        
+ J11.8                          PRIM_FILE      .\pstchip.dat
+ J11.8                          SECTION        
+ J12.2                          PRIM_FILE      .\pstchip.dat
+ J12.2                          SECTION        
+ Q12.2                          PRIM_FILE      .\pstchip.dat
+ Q12.2                          SECTION        
+ Q13.2                          PRIM_FILE      .\pstchip.dat
+ Q13.2                          SECTION        
+ R162.2                         PRIM_FILE      .\pstchip.dat
+ R162.2                         SECTION        
+ R163.2                         PRIM_FILE      .\pstchip.dat
+ R163.2                         SECTION        
+ R164.2                         PRIM_FILE      .\pstchip.dat
+ R164.2                         SECTION        
+ R165.2                         PRIM_FILE      .\pstchip.dat
+ R165.2                         SECTION        
+ R166.2                         PRIM_FILE      .\pstchip.dat
+ R166.2                         SECTION        
+ R167.2                         PRIM_FILE      .\pstchip.dat
+ R167.2                         SECTION        
+ U1.77          -68.600 51.7500 PRIM_FILE      .\pstchip.dat
+ U1.77          -68.600 51.7500 SECTION        
+ U4.2                           PRIM_FILE      .\pstchip.dat
+ U4.2                           SECTION        
+ U5.8                           PRIM_FILE      .\pstchip.dat
+ U5.8                           SECTION        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:/Project/Balang_Ctrl_Proj/HW/PCB/Balang_Ctrl_V1_0_20190706.brd            |
+|                                                    Sat Jul 06 22:51:33 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  151                                            |
+|------------------------------------------------------------------------------|

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jul-03-2019 at 22:53:25}
+{ Using PSTWRITER 16.6.0 d001Jul-03-2019 at 23:05:20}
 primitive 'CAP NP_0_CC0603_100N';
   pin
     '1':
@@ -120,17 +120,17 @@ primitive 'ZENER_AK_6_SOD3716X117N_ZEN';
     VALUE='ZEN';
   end_body;
 end_primitive;
-primitive 'LED_LEDSC160X80X70L45N_LED';
+primitive 'LED_2_LEDSC160X80X70L45N_LED';
   pin
     'ANODE':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(A)';
       PINUSE='UNSPEC';
     'CATHODE':
-      PIN_NUMBER='(1)';
+      PIN_NUMBER='(C)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='LED';
+    PART_NAME='LED_2';
     JEDEC_TYPE='LEDSC160X80X70L45N';
     VALUE='LED';
   end_body;

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jul-03-2019 at 23:05:20}
+{ Using PSTWRITER 16.6.0 d001Jul-06-2019 at 22:50:45}
 primitive 'CAP NP_0_CC0603_100N';
   pin
     '1':
@@ -88,6 +88,21 @@ primitive 'CAP NP_CC0603_100N';
     PART_NAME='CAP NP';
     JEDEC_TYPE='CC0603';
     VALUE='100n';
+  end_body;
+end_primitive;
+primitive 'CAP NP_CC0603_CAP NP';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='CC0603';
+    VALUE='CAP NP';
   end_body;
 end_primitive;
 primitive 'DIODE_6_MINIMELF_DIODE';
@@ -202,6 +217,54 @@ primitive 'TERMINAL_BLOCK_0_TERMINALBLOCK5';
     PART_NAME='Terminal_Block_0';
     JEDEC_TYPE='terminalblock508';
     VALUE='TerminalBlock';
+  end_body;
+end_primitive;
+primitive 'JUMPER_JUMBER_4X4_JUMPER';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='JUMPER';
+    JEDEC_TYPE='Jumber_4x4';
+    VALUE='JUMPER';
+  end_body;
+end_primitive;
+primitive 'JUMPER_CC0805_JUMPER';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='JUMPER';
+    JEDEC_TYPE='CC0805';
+    VALUE='JUMPER';
   end_body;
 end_primitive;
 primitive 'RST_SW_5-1437565-0_RST';
@@ -393,7 +456,7 @@ primitive 'R_RC0805_10R';
     VALUE='10R';
   end_body;
 end_primitive;
-primitive 'ATMEGA2560_SHIELD_1_ATMEGA2560_';
+primitive 'ATMEGA2560_SHIELD_3_ATMEGA2560_';
   pin
     'D0/RX0':
       PIN_NUMBER='(86)';
@@ -437,22 +500,22 @@ primitive 'ATMEGA2560_SHIELD_1_ATMEGA2560_';
     'D13':
       PIN_NUMBER='(13)';
       PINUSE='UNSPEC';
-    'D14':
+    'D14/TX3':
       PIN_NUMBER='(14)';
       PINUSE='UNSPEC';
-    'D15':
+    'D15/RX3':
       PIN_NUMBER='(15)';
       PINUSE='UNSPEC';
-    'D16':
+    'D16/TX2':
       PIN_NUMBER='(16)';
       PINUSE='UNSPEC';
-    'D17':
+    'D17/RX2':
       PIN_NUMBER='(17)';
       PINUSE='UNSPEC';
-    'D18':
+    'D18/TX1':
       PIN_NUMBER='(18)';
       PINUSE='UNSPEC';
-    'D19':
+    'D19/RX1':
       PIN_NUMBER='(19)';
       PINUSE='UNSPEC';
     'D20':
@@ -655,7 +718,7 @@ primitive 'ATMEGA2560_SHIELD_1_ATMEGA2560_';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='Atmega2560_Shield_1';
+    PART_NAME='Atmega2560_Shield_3';
     JEDEC_TYPE='atmega2560_1';
     VALUE='Atmega2560';
   end_body;
@@ -697,6 +760,138 @@ primitive 'LM2596_MODULE_LM2596_MODULE_LM2';
     PART_NAME='LM2596_Module';
     JEDEC_TYPE='LM2596_Module';
     VALUE='LM2596';
+  end_body;
+end_primitive;
+primitive 'ESP32_1_ESPLUANODE_ESP32';
+  pin
+    'EN':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'VP':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VN':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'D34':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'D35':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'D32':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'D33':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'D25':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'D26':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    'D27':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'D14':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    'D12':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    'D13':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    'GND0':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    'VIN':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    'D4':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    'RX2':
+      PIN_NUMBER='(21)';
+      PINUSE='UNSPEC';
+    'TX2':
+      PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    'D5':
+      PIN_NUMBER='(23)';
+      PINUSE='UNSPEC';
+    'D18':
+      PIN_NUMBER='(24)';
+      PINUSE='UNSPEC';
+    'D19':
+      PIN_NUMBER='(25)';
+      PINUSE='UNSPEC';
+    'D21':
+      PIN_NUMBER='(26)';
+      PINUSE='UNSPEC';
+    'RX0':
+      PIN_NUMBER='(27)';
+      PINUSE='UNSPEC';
+    'TX0':
+      PIN_NUMBER='(28)';
+      PINUSE='UNSPEC';
+    'D22':
+      PIN_NUMBER='(29)';
+      PINUSE='UNSPEC';
+    'D23':
+      PIN_NUMBER='(30)';
+      PINUSE='UNSPEC';
+    '3V3':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    'GND1':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    'D15':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    'D2':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ESP32_1';
+    JEDEC_TYPE='ESPLuaNode';
+    VALUE='ESP32';
+  end_body;
+end_primitive;
+primitive 'ESP8266_ESP8266_01_ESP';
+  pin
+    'RX':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'GPIO0':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'GPIO2':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'TX':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'CH_PD':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'RST':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ESP8266';
+    JEDEC_TYPE='ESP8266_01';
+    VALUE='ESP';
   end_body;
 end_primitive;
 primitive 'SPARK GAP_SPARK_GAP_SPARK GAP';

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ESPLuaNode.dra                                )
+(    Software Version : 16.6S018                                      )
+(    Date/Time        : Sat Jul 06 22:21:47 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Project/Balang_Ctrl_Proj/HW/LIB/PCB
+    Name      = espluanode.psm
+    User      = BANGNGUYEN
+    Machine   = BANGNGUYEN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

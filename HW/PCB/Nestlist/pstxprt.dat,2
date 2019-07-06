@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jun-27-2019 at 22:20:16 }
+{ Using PSTWRITER 16.6.0 d001Jul-03-2019 at 22:53:25 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='BALANG_CTRL_HW_V1_0';
@@ -1188,12 +1188,112 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ D138 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18830711@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18830711@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18830711@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D139 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834288@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834288@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834288@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  D14 'DIODE_6_MINIMELF_DIODE':;
 
 SECTION_NUMBER 1
  '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18673469@BALANG_CTRL_HW_V1_0.DIODE_6.NORMAL(CHIPS)':
  C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18673469@balang_ctrl_hw_v1_0.\diode_6.normal\(chips)',
  P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page3_ins18673469@balang_ctrl_hw_v1_0.\diode_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D140 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834405@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834405@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834405@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D141 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834525@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834525@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834525@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D142 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834648@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834648@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834648@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D143 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835007@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835007@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835007@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D144 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835052@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835052@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835052@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D145 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835117@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835117@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835117@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D146 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835168@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835168@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835168@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D147 'LED_LEDSC160X80X70L45N_LED':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835217@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835217@discrete.\led.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835217@discrete.\led.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -2248,6 +2348,106 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ Q10 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835135@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835135@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835135@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q11 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835184@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835184@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835184@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18830635@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18830635@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18830635@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834255@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834255@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834255@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834372@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834372@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834372@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834492@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834492@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834492@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834615@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834615@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834615@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834976@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834976@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834976@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835027@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835027@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835027@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q9 'BUZ84A_SOT95P237X112-3N_IRF150':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835086@TRANSISTOR.BUZ84A.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835086@transistor.\buz84a.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835086@transistor.\buz84a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R1 'R_RC0603_100K':;
 
 SECTION_NUMBER 1
@@ -2718,6 +2918,86 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R142 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18830651@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18830651@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18830651@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R143 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18830665@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18830665@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18830665@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R144 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834270@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834270@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834270@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R145 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834278@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834278@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834278@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R146 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834387@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834387@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834387@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R147 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834395@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834395@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834395@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R148 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834507@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834507@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834507@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R149 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834515@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834515@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834515@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R15 'R_RC0603_1K':;
 
 SECTION_NUMBER 1
@@ -2728,12 +3008,132 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R150 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834630@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834630@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834630@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R151 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834638@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834638@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834638@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R152 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834987@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834987@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834987@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R153 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834995@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834995@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834995@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R154 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835040@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835040@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835040@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R155 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835060@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835060@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835060@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R156 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835097@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835097@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835097@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R157 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835105@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835105@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835105@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R158 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835150@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835150@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835150@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R159 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835160@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835160@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835160@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R16 'R_RC0603_1K':;
 
 SECTION_NUMBER 1
  '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18673461@DISCRETE.R.NORMAL(CHIPS)':
  C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18673461@discrete.\r.normal\(chips)',
  P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page3_ins18673461@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R160 'R_RC0805_330R':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835199@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835199@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835199@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R161 'R_RC0603_10K':;
+
+SECTION_NUMBER 1
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835207@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835207@discrete.\r.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835207@discrete.\r.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

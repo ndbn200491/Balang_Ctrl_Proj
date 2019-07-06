@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Jul-03-2019 at 22:53:25 }
+{ Using PSTWRITER 16.6.0 d001Jul-03-2019 at 23:05:20 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='BALANG_CTRL_HW_V1_0';
@@ -1188,22 +1188,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D138 'LED_LEDSC160X80X70L45N_LED':;
+ D138 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18830711@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18830711@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18830711@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18830711@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18830711@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18830711@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D139 'LED_LEDSC160X80X70L45N_LED':;
+ D139 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834288@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834288@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834288@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834288@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834288@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834288@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1218,82 +1218,82 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- D140 'LED_LEDSC160X80X70L45N_LED':;
+ D140 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834405@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834405@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834405@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834405@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834405@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834405@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D141 'LED_LEDSC160X80X70L45N_LED':;
+ D141 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834525@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834525@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834525@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834525@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834525@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834525@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D142 'LED_LEDSC160X80X70L45N_LED':;
+ D142 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834648@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834648@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834648@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18834648@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18834648@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18834648@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D143 'LED_LEDSC160X80X70L45N_LED':;
+ D143 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835007@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835007@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835007@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835007@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835007@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835007@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D144 'LED_LEDSC160X80X70L45N_LED':;
+ D144 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835052@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835052@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835052@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835052@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835052@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835052@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D145 'LED_LEDSC160X80X70L45N_LED':;
+ D145 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835117@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835117@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835117@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835117@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835117@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835117@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D146 'LED_LEDSC160X80X70L45N_LED':;
+ D146 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835168@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835168@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835168@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835168@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835168@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835168@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- D147 'LED_LEDSC160X80X70L45N_LED':;
+ D147 'LED_2_LEDSC160X80X70L45N_LED':;
 
 SECTION_NUMBER 1
- '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835217@DISCRETE.LED.NORMAL(CHIPS)':
- C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835217@discrete.\led.normal\(chips)',
- P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835217@discrete.\led.normal\(chips)',
+ '@BALANG_CTRL_HW_V1_0.SCHEMATIC1(SCH_1):INS18835217@BALANG_CTRL_HW_V1_0.LED_2.NORMAL(CHIPS)':
+ C_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):ins18835217@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
+ P_PATH='@balang_ctrl_hw_v1_0.schematic1(sch_1):page1_ins18835217@balang_ctrl_hw_v1_0.\led_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
