@@ -79,6 +79,33 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (JUMPER
+      (FullPartName "JUMPER.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ESP8266
+      (FullPartName "ESP8266.Normal")
+      (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\ATEMEGA2560_SHIED.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ESP32_1
+      (FullPartName "ESP32_1.Normal")
+      (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
+      (DeviceIndex "0"))
+    (ESP32
+      (FullPartName "ESP32.Normal")
+      (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\ATEMEGA2560_SHIED.OLB")
+      (DeviceIndex "0"))
     (LED
       (FullPartName "LED.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -90,10 +117,6 @@
     (ZENER_AK_5
       (FullPartName "ZENER_AK_5.Normal")
       (LibraryName "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
-      (DeviceIndex "0"))
-    ("CAP NP"
-      (FullPartName "CAP NP.Normal")
-      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
@@ -128,10 +151,6 @@
       (FullPartName "Power_Supply_Con.Normal")
       (LibraryName "D:\PROJECT\BALANG_CTRL_V1_0\HW\SCH\ATEMEGA2560_SHIED.OLB")
       (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
-      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
-      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -154,19 +173,22 @@
       (Path "Design Resources" ".\balang_ctrl_hw_v1_0.dsn")
       (Path "Design Resources" ".\balang_ctrl_hw_v1_0.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Design Resources" "Library" ".\atemega2560_shied.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\balang_ctrl_hw_v1_0.dsn" "SCHEMATIC1"
+         "PAGE04 - LED OUTPUT"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 444"))
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 444"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 75 897 75 484")
-        (Scroll "1581 305")
-        (Zoom "264")
+        (Scroll "228 86")
+        (Zoom "132")
         (Occurrence "/"))
       (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
       (Schematic "SCHEMATIC1")
@@ -185,7 +207,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 100 1215 100 509")
-        (Scroll "385 30")
+        (Scroll "385 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
@@ -204,8 +226,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1265 150 559")
-        (Scroll "0 348")
+        (Placement "44 2 3 -1 -1 -8 -30 150 1265 150 559")
+        (Scroll "0 466")
         (Zoom "94")
         (Occurrence "/"))
       (Path "D:\PROJECT\BALANG_CTRL_PROJ\HW\SCH\BALANG_CTRL_HW_V1_0.DSN")
